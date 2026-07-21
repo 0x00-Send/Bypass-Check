@@ -1,0 +1,2371 @@
+[33mcommit e456876d93951f9106fa12a1818517cd524e1fea[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 09:07:20 2026 -0300
+
+    add oidc
+
+[33mcommit 1fc626f80e0f88f435fb33d33928897b74c4bad5[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 09:01:09 2026 -0300
+
+    update dump
+
+[33mcommit 4ee15dbc52011f7b54b58f0d0182039e853b6ba3[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:59:10 2026 -0300
+
+    add scanr
+
+[33mcommit cc755a224673226ea585f7837920425f2fedfd3d[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:57:20 2026 -0300
+
+    add scanall
+
+[33mcommit 1527a76bd17fcf2470ffe9ef422d690ac88d0a94[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:55:42 2026 -0300
+
+    add full-dump
+
+[33mcommit a48984c6f4222694c23cfb9f19d92a8f9fc71822[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:53:48 2026 -0300
+
+    add dump
+
+[33mcommit 4fbaafa8a3bb24eb0ae237dc561f3623899fd3cc[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:51:02 2026 -0300
+
+    add scan
+
+[33mcommit 5ce7b4826326dd9123ef36f826ebe73f113f103d[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:49:10 2026 -0300
+
+    add full-audit
+
+[33mcommit 2648e8dca1eb4cda7a2d9016c7a1725bee2b7669[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:45:40 2026 -0300
+
+    add audit
+
+[33mcommit 0f76d325049a3d29aa55cfac3812397d65f26676[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:41:17 2026 -0300
+
+    update
+
+[33mcommit 8e24a5f5d6262a59c7a1e51c6ea57685c93d64cb[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:35:43 2026 -0300
+
+    add cross
+
+[33mcommit 44bb9ed9d992fad2c3de6071b5d41e0d2dfeb8c5[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:34:41 2026 -0300
+
+    add
+
+[33mcommit 12dea3a8ffda809cfbd593cef9ef3fcafa2e8b9b[m
+Author: blips-ti <102070395+blips-ti@users.noreply.github.com>
+Date:   Sat Jun 27 08:27:30 2026 -0300
+
+    add exfil
+
+[33mcommit aa08a4520a4d1df7bf8a86775c39ac385390a793[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Feb 26 21:24:25 2025 +0300
+
+    Fix pre-release workflow for Fuse
+
+[33mcommit 0cbe13717566ad006d296361bc85b651ef98d1f3[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Feb 26 21:15:06 2025 +0300
+
+    Pre-releases for Stability, Rootstock, Fuse
+
+[33mcommit b031df826eb28cb920a8526a8759f32210d9028f[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Feb 26 16:45:49 2025 +0300
+
+    7.0.2
+
+[33mcommit 0cbda4dc970f013f63fb36c4f8c84c7506f7893b[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Feb 24 12:53:23 2025 +0300
+
+    7.0.1
+
+[33mcommit 3774fe55e7f303755d30188388b815e28f9904e2[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Feb 19 16:13:51 2025 +0300
+
+    fix: Add BRIDGED_TOKENS_ENABLED to custom Gnosis chain docker images (#11895)
+    
+    * fix: Fix bridged_tokens_enabled flag usage
+    
+    * Add BRIDGED_TOKENS_ENABLED=true to custom docker images for Gnosis chain
+
+[33mcommit 54c6bfe6fd46172e835958f7ff0776faa692e6d7[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri Feb 7 18:02:55 2025 +0300
+
+    Bump version
+
+[33mcommit 8acba65260ff4884ee63b0ce691ff9c42f2ff977[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri Feb 7 13:47:06 2025 +0300
+
+    Extend publish-docker-image-for-blackfort.yml GA workflow to generate images for indexer and API separately
+
+[33mcommit 8e63f628918632542ab059385c220dbdf2f72886[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Feb 6 20:22:50 2025 +0300
+
+    Pass SCAM_ACTION_WHITELISTED_LOGINS env variable to antiscam github action
+
+[33mcommit d82a7a4b6a4f6473936a3cb171ae96c18f2dd733[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Feb 6 19:02:19 2025 +0300
+
+    version bump to 6.10.2
+
+[33mcommit 5bfe4f41d7edb80e5eb0a980922cfc3bb9ce9c06[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Feb 5 15:13:48 2025 +0300
+
+    feat: Adds support for NeonVM linked Solana transactions (#11667) (#11736)
+    
+    * feat: Adds support for NeonVM linked Solana transactions (#11667)
+    
+    * Update apps/block_scout_web/lib/block_scout_web/routers/api_router.ex
+    
+    Co-authored-by: Victor Baranov <baranov.viktor.27@gmail.com>
+    
+    * fixes endpoints in the tests
+    
+    ---------
+    
+    Co-authored-by: r0wdy1 <103738251+r0wdy1@users.noreply.github.com>
+    Co-authored-by: vladimir <vladimir@blockscout.com>
+
+[33mcommit dd5b3672629dd7933bcd8272219e5acc33ccd3c2[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Feb 4 13:33:06 2025 +0300
+
+    chore: Cutom build workflow for Neon chain type
+
+[33mcommit d0c04c04f2c681e94dec7b767c6c98fc5fd0ce79[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Jan 21 17:57:14 2025 +0300
+
+    chore: Fix text in the template and update localization files (#11715)
+    
+    * chore: Fix text in the template and update localization files
+    
+    * Update gettext workflow
+
+[33mcommit 64fb9e7d185586b25a779719b5f29930a18b8351[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Jan 21 14:24:29 2025 +0300
+
+    Workflow for custom build
+
+[33mcommit 4ac5354e5382a7736d2c8c0e94d026c240355bfa[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri Jan 17 12:31:18 2025 +0300
+
+    chore: Update publish-docker-image-for-eth.yml workflow
+
+[33mcommit 471bf718b0d2dda3a9babfbd26a8aa19febf0a64[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Jan 15 13:10:22 2025 +0300
+
+    chore: Add indexer / API builds for custom Gnosis chain build
+
+[33mcommit c10c1e96652e099d046fb33ad015357b4ee91d7c[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Jan 8 19:48:34 2025 +0300
+
+    v6.10.1
+
+[33mcommit 367dd7e48dc93eb556670659783c70cbb720fc51[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Dec 23 17:06:40 2024 +0300
+
+    Add antispam action
+
+[33mcommit da2ebe66b9cf2b89847b37c291bc93d259993543[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Dec 19 21:48:01 2024 +0300
+
+    Update antiscam Github actions workflow
+
+[33mcommit b05ee6e97a6c81984130eed404763425bb758c30[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Dec 19 21:05:34 2024 +0300
+
+    Add antiscam Githu actions workflow
+
+[33mcommit be8fd5c71def23db0a900e9861f8785956ea82ba[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Dec 9 18:56:19 2024 +0400
+
+    Shrink internal transactions pre-release build for Ethereum
+
+[33mcommit 2b5f89c58f1c9b39ddd3f59daf78ccffe3cc5e85[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Dec 9 16:45:48 2024 +0400
+
+    chore: Remove beta suffix from releases (#11376)
+
+[33mcommit 9e4fa7ef50a4a5b627a98aa9362fb2ab53419531[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Dec 9 13:18:31 2024 +0400
+
+    v6.10.0
+
+[33mcommit 8f18d40e9e2a87348a377cf502aeb6d2c0e00ca3[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Dec 9 10:58:22 2024 +0400
+
+    chore: Remove obsolete compile-time vars (#11336)
+
+[33mcommit 9b93c71f27b6a9d299004d2478bb0ee429113dee[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Dec 9 10:47:40 2024 +0400
+
+    chore: Fixate Postgres 17 version in Docker compose and Github Actions workflows (#11334)
+
+[33mcommit ee8f527f1e2e72947adfca22ab6738cd095f7e2c[m
+Author: Maxim Filonov <53992153+sl1depengwyn@users.noreply.github.com>
+Date:   Thu Dec 5 10:34:37 2024 +0300
+
+    chore: refactor compile time envs usage (#11148)
+    
+    * chore: refactor compile time envs usage
+    
+    * Add doc
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Add doc
+    
+    Co-Authored-By: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Add custom credo check
+    
+    ---------
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+
+[33mcommit 673f1718f2b8e5da74c65ec924f937bea58bd1f9[m
+Author: Kirill Fedoseev <kirill@blockscout.com>
+Date:   Tue Dec 3 17:16:20 2024 +0900
+
+    chore: refactor Dockerfile (#11130)
+    
+    * chore: refactor dockerfile
+    
+    * chore: update eth-sepolia ci
+
+[33mcommit d512914493b721fec88346784fe08a89f799872a[m
+Author: Maxim Filonov <53992153+sl1depengwyn@users.noreply.github.com>
+Date:   Tue Nov 26 13:38:24 2024 +0300
+
+    Fixate 6.9.2 as the latest release (#11265)
+    
+    [no ci]
+
+[33mcommit c4e6f9c384ceb5b98070c43b1e72ae373e5573df[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Nov 21 16:45:16 2024 +0400
+
+    Fixate 6.9.1 as the latest release in master branch
+
+[33mcommit 9c86a43829ab78d91a7dc2697e15ed7fae809569[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Nov 12 20:30:17 2024 +0700
+
+    Temp update release workflow
+
+[33mcommit 632c6d44dfa1e19b076172cef101ac5f570f602d[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Nov 12 20:28:23 2024 +0700
+
+    Update release workflow
+
+[33mcommit 6dbdb26b35a886265f154811373a18707c9a64ac[m
+Author: Fedor Ivanov <ivnfedor@gmail.com>
+Date:   Wed Nov 6 15:59:09 2024 +0300
+
+    refactor: cspell configuration (#11146)
+    
+    * fix: cspell ignore weird IPFS url
+    
+    * fix: cspell ignore filecoin f410f addresses
+    
+    * chore: write ignore in single line
+    
+    * feat: configure everything in `cspell.json`
+    
+    * refactor: remove unnecessary cspell ignores
+    
+    * refactor: cspell run command in actions and devcontainer
+    
+    * chore: enable editor support
+    
+    * chore: add comment
+    
+    * fix: cspell action options
+    
+    * feat: run for all files
+
+[33mcommit 18eb3c6fb2559d4df16ae33e2f18a51064796610[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Nov 6 14:26:05 2024 +0200
+
+    chore: Update Github Actions packages versions (#11144)
+    
+    * Update Github Actions packages versions
+    
+    * Update Github Actions packages version
+
+[33mcommit 0dfd4c6ca29455583648f0067640e25da4136b15[m
+Author: Fedor Ivanov <ivnfedor@gmail.com>
+Date:   Wed Nov 6 14:54:43 2024 +0300
+
+    feat: zilliqa consensus data related to block  (#10699)
+    
+    * refactor: DRY declaration of chain type and feature dependent repos
+    
+    * feat: add `:zilliqa` chain type
+    
+    * chore: add `zilliqa` to cspell.json
+    
+    * feat: import consensus data related to block
+    
+    * fix: cspell
+    
+    * fix: ethereum_jsonrpc tests
+    
+    * fix: format & credo
+    
+    * feat: render consensus data in `/api/v2/blocks/:block_hash_or_number` response
+    
+    * fix: add missing `view` field to block db schema
+    
+    * feat: add workflow to publish docker image
+    
+    * fix: cast `zilliqa_view` field of a block
+    
+    * refactor: view
+    
+    * refactor: define spec only once
+    
+    * refactor: DRY definition of other repos
+    
+    * fix: remove not null constraint for `zilliqa_view`
+    
+    * fix: dialyzer
+    
+    * fix: `@spec` for `chain_type_fields/2`
+    
+    * feat: github workflows
+    
+    * fix: debug
+    
+    * fix: add missing indexer and API workflows
+
+[33mcommit 0189dec6f3c683f4d68ef821fa4ff7d84abdd236[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Oct 31 12:37:02 2024 +0200
+
+    Add shrink int txs docker image for Shibarium chain type
+
+[33mcommit 1b9261f6a925c47629833970cfb6856ba10e5559[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Oct 30 12:45:12 2024 +0200
+
+    Pre-release Docker image for Filecoin
+
+[33mcommit 608f319765b2707d2bfdadb648cc1fb8dfce650b[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Oct 30 11:04:27 2024 +0200
+
+    Add pre-release docker image generation for Polygon ZkEVM
+
+[33mcommit 92a814d22bf6366f3baf84eed5ec9b0ebb95f492[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Oct 29 17:32:14 2024 +0200
+
+    Add shrink int txs docker image for pre release workflows at Arbitrum, CELO (release also), Op, ZkSync
+
+[33mcommit b370c0014f1243235a3bec73c86c65b7e4dc1c5e[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Oct 23 12:54:10 2024 +0300
+
+    Add pre-release docker image for scroll with internal txs shrink
+
+[33mcommit b48ad1f8f41cdb5cf5f5f7dba1317443928a4b46[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Oct 22 21:01:14 2024 +0300
+
+    Fix Scroll workflow
+
+[33mcommit c837858f03c449fa905af523065897ec70ff6b07[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Oct 22 20:34:58 2024 +0300
+
+    6.9.0
+
+[33mcommit eafe7c8b3bb0f8f9ee022a11611c31410c65cf4c[m
+Author: varasev <33550681+varasev@users.noreply.github.com>
+Date:   Tue Oct 22 19:33:44 2024 +0400
+
+    feat: Scroll rollup: L1 fee parameters in API, `queueIndex` for L2 transactions, and L1 <->L2 messages (#10484)
+    
+    * Add chain type for scroll and l1_fee tx field
+    
+    * l1_fee_scalar and l1_fee_overhead fields in api json output for tx
+    
+    * l2_fee field in api json output for tx
+    
+    * l1_gas_used field in api json output for tx
+    
+    * l1_fee_commit_scalar, l1_fee_blob_scalar, l1_base_fee, l1_blob_base_fee fields in api json output for tx
+    
+    * Partially add specs and docs
+    
+    * Add code specs and docs for Indexer.Fetcher.Scroll.L1FeeParam
+    
+    * Add code specs and docs
+    
+    * Small fix
+    
+    * Add CI matrix chain type
+    
+    * Fix spelling
+    
+    * Rename envs
+    
+    * Update common-blockscout.env
+    
+    * Small fixes
+    
+    * Improve scroll_view.ex
+    
+    * Update scroll_view.ex
+    
+    * Add support of queueIndex field for L1MessageTx in Scroll
+    
+    * Fix for mix credo
+    
+    * Add scroll_bridge db table
+    
+    * Add Scroll bridge messages indexing
+    
+    * Add Indexer.Transform.Scroll.Bridge
+    
+    * Refactoring
+    
+    * Add API for Scroll
+    
+    * Ignore credo warning about nesting level
+    
+    * Add specs and docs
+    
+    * Refactoring
+    
+    * Partially cover review comments
+    
+    * Add some specs and docs
+    
+    * Add GA workflows for scroll
+    
+    * Small refactoring
+    
+    * Add to_import for Explorer.Chain.Scroll.Bridge
+    
+    * Small refactoring
+    
+    * Add specs and docs
+    
+    * Add comments
+    
+    * Add Explorer.Chain.RollupReorgMonitorQueue module
+    
+    * Add sobelow_skip
+    
+    * Add INDEXER_SCROLL_ETH_GET_LOGS_RANGE_SIZE env variable
+    
+    * Update common-blockscout.env
+    
+    * Small refactoring
+    
+    * Add links about Curie upgrade
+    
+    * Small improvement
+    
+    * Small refactoring
+    
+    * Separate db query
+    
+    * Move chain type specific import runners from BlockReferencing to ChainTypeSpecific stage
+    
+    * Add draft indexer for Scroll batches
+    
+    * Add API for Scroll batches
+    
+    * Extend API for Scroll batches
+    
+    * Refactoring
+    
+    * Update common-blockscout.env
+    
+    * Add specs and docs
+    
+    * Remove misprint
+    
+    * Fixes
+    
+    * Small improvement
+    
+    * Refactoring
+    
+    * Refactoring
+    
+    * Refactoring
+    
+    * Refactoring for credo
+    
+    * Partially cover review comments
+    
+    * Add l2_block_status to transaction view for Scroll
+    
+    * RollupL1ReorgMonitor refactoring
+    
+    * Extend docs
+    
+    * Small refactoring of last_l2_block_number function
+    
+    * Extend docs
+    
+    * Extend docs
+    
+    * Fix typo
+    
+    * mix format
+    
+    * Extend docs
+    
+    * Extend docs
+    
+    * Separate eth_getLogs block range size config
+    
+    * Small refactoring
+    
+    * Add comment
+    
+    * Add comments
+    
+    * Optimization
+    
+    * Small optimization
+    
+    * Use Ecto.Multi
+    
+    * Extend docs
+    
+    * Change API response for Scroll batches
+    
+    * Change API response format for Scroll bridge messages
+    
+    * Small refactoring
+    
+    * Update apps/indexer/lib/indexer/transform/scroll/l1_fee_params.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/l1_fee_param.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/l1_fee_param.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/l1_fee_param.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/bridge.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/explorer/lib/explorer/chain/scroll/reader.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/explorer/lib/explorer/chain/scroll/reader.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/explorer/lib/explorer/chain/scroll/bridge.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/explorer/lib/explorer/chain/scroll/batch.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/explorer/lib/explorer/chain/scroll/batch_bundle.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/bridge.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/bridge.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/bridge.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/bridge.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/bridge.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/batch.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/batch.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/batch.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/fetcher/scroll/batch.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Small refactoring
+    
+    * Extend docs
+    
+    * Update apps/explorer/lib/explorer/chain/scroll/reader.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/indexer/lib/indexer/helper.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/explorer/lib/explorer/chain/scroll/reader.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Update apps/explorer/lib/explorer/chain/scroll/reader.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * Improve specs
+    
+    * Update apps/explorer/lib/explorer/chain/scroll/reader.ex
+    
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+    
+    * fix
+    
+    * mix format
+    
+    * Add DA container info for Scroll batches
+    
+    * Fallback INDEXER_SCROLL_L2_MESSENGER_START_BLOCK to FIRST_BLOCK
+    
+    * mix format
+    
+    * Remove redundant lines
+    
+    * Use multi update_all
+    
+    * rename "tx" shorthands
+    
+    ---------
+    
+    Co-authored-by: POA <33550681+poa@users.noreply.github.com>
+    Co-authored-by: Viktor Baranov <baranov.viktor.27@gmail.com>
+    Co-authored-by: Alexander Kolotov <alexandr.kolotov@gmail.com>
+
+[33mcommit f597adfea03deb4ca6465945d7db5a26efbdd413[m
+Author: Fedor Ivanov <ivnfedor@gmail.com>
+Date:   Thu Oct 10 16:22:00 2024 +0300
+
+    fix: add missing build arg to celo workflow (#10895)
+
+[33mcommit f9b352189fa3f509188577e5ea1f80073ef5eb30[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Oct 10 10:53:24 2024 +0300
+
+    chore: Add shrink int txs docker image build for Celo chain type (#10894)
+
+[33mcommit 6a22f3afc3c85b0e6e7c2adb3a5aad1dd06a2a8c[m
+Author: Fedor Ivanov <ivnfedor@gmail.com>
+Date:   Wed Oct 9 15:46:06 2024 +0300
+
+    fix: do not include unrelated token transfers in `tokenTransferTxs` (#10889)
+    
+    * fix: do not include unrelated token transfers in `tokenTransferTxs`
+    
+    * fix: increase `API_GRAPHQL_MAX_COMPLEXITY` for celo instances
+    
+    * chore: add spec and doc
+
+[33mcommit e16236243195deb06d6d4b9e0bb67c534b2f04ad[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Oct 3 15:03:36 2024 +0300
+
+    chore: add version bump script (#10871)
+
+[33mcommit 6647fe38d3c69782619fba546cf463c986c1145a[m
+Author: Fedor Ivanov <ivnfedor@gmail.com>
+Date:   Tue Oct 1 11:52:17 2024 +0300
+
+    fix: set `API_GRAPHQL_MAX_COMPLEXITY` in build action (#10843)
+
+[33mcommit 2e6ce2c222fdee705b26aa4272d1cc25fc7d6362[m
+Author: Kirill Fedoseev <kirill@blockscout.com>
+Date:   Fri Sep 27 18:05:17 2024 +0400
+
+    chore: bump elixir to 1.17.3 and Erlang OTP to 27.1 (#10284)
+    
+    * fix: qemu arm build
+    
+    * ci: remove arm build workaround
+    
+    * chore: bump elixir stack to 1.17.1
+    
+    * chore: fix dialyzer
+    
+    * chore: update pr ref
+    
+    * chore: bump elixir stack to 1.17.2
+    
+    * chore: fix range warnings
+    
+    * fix: test
+    
+    * chore: bump elixir stack to 1.17.3
+    
+    * chore: fix warnings
+
+[33mcommit 5e4b8d856d72c4ecff717634f2df848109d59726[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri Sep 27 13:23:08 2024 +0300
+
+    chore: Remove old UI from base Docker image (#10828)
+    
+    * chore: Remove old UI from base Docker image
+    
+    * Rename Dockerfile with old UI
+
+[33mcommit 629620bc52a8a88e216ff1f58066fbed49268c36[m
+Author: nikitosing <32202610+nikitosing@users.noreply.github.com>
+Date:   Tue Sep 24 11:37:35 2024 +0300
+
+    feat: Add Blackfort validators (#10744)
+    
+    * feat: Add Blackfort validators
+    
+    * Finishing touches
+    
+    * Add missing specs, docs, pre-release workflow for Blackfort
+    
+    * Remove blocks_validated
+    
+    ---------
+    
+    Co-authored-by: Victor Baranov <baranov.viktor.27@gmail.com>
+
+[33mcommit 5469933699f860dae15b10734c242a54c5dd90a5[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Sep 16 17:14:18 2024 +0300
+
+    Fix bug in naming of docker image for Optimism
+
+[33mcommit dcf88c0c81aa344dd3be4e51c7fcc79cc0dc5a9c[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Sep 3 20:57:29 2024 +0300
+
+    Change branch for eth to production-eth
+
+[33mcommit b049e7c13b9237529c97c61286b626b8faec05c0[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Sep 3 18:00:17 2024 +0300
+
+    Remove workflow_dispatch trigger from CELO release workflow
+
+[33mcommit 4b28ff30b1c0f66ad6c910be20f8147935675c91[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Sep 3 17:58:29 2024 +0300
+
+    Add Release pre-release workflows for CELO
+
+[33mcommit 7c1be4695d7cbdca3b629b8a96f12a56cdd39711[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Sep 2 11:59:22 2024 +0300
+
+    Remove workflow_dispatch trigger from release workflows
+
+[33mcommit cd1f130c93a1f4fa4f359547f08b7e609620b455[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Aug 29 08:10:55 2024 +0400
+
+    Fix main release workflow
+
+[33mcommit 54bc32ddea4c8f6dcfe36106a6f56edc53a10fd4[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Aug 29 06:38:43 2024 +0400
+
+    Fix Optimism release workflow
+
+[33mcommit da3fd0457a176792b882c73dde42b6459f8335c5[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Aug 26 13:02:56 2024 +0400
+
+    Add pre-release workflow for Redstone
+
+[33mcommit 4d94d09ed8741cf6667e9a755f55c7168e70ca12[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Aug 22 19:49:15 2024 +0300
+
+    Fix ETH workflow
+
+[33mcommit d731fe6f61fe051cbe1c46e4b54735cdcf582b5a[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Aug 22 19:12:10 2024 +0300
+
+    Extend workflow publish-docker-image-for-eth
+
+[33mcommit a9c2a08716941db3363f8016ce37dbf638a08c1d[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Aug 19 13:35:18 2024 +0300
+
+    workflows for Docker image generation with shrunk internal transactions table
+
+[33mcommit ab2445dfe2f9db58b2064894c0f00e4271d1055c[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri Aug 16 16:36:14 2024 +0300
+
+    ETH Sepolia internal transactions shrink
+
+[33mcommit c4a13a726e2806ba1211749fc68f3f86e227b2d8[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri Aug 16 15:58:52 2024 +0300
+
+    feat: Support smart-contract verification in zkSync (#10500)
+    
+    * db changes for zksync smart-contract verification support
+    
+    * Update SmartContract model
+    
+    * Pass zk_compiler_version value in API v1/v2 endpoints
+    
+    * Extend sc verification config with config for zk compilers
+    
+    * Fix constructor arguments saving
+    
+    * Enhance api/v2/smart-contracts/verification/config for zkSync
+    
+    * Process review comments
+    
+    * creationMatch -> runtimeMatch
+    
+    * Fix merging conflicts
+    
+    * Finishing touches
+
+[33mcommit 96c37ff2230572e99826801898a739e45188fa42[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Aug 14 11:15:07 2024 +0300
+
+    CI workflow for split setup for Shibarium
+
+[33mcommit 1fd2a8f3a285233fa782d1225a65b946b594e8fa[m
+Author: Qwerty5Uiop <105209995+Qwerty5Uiop@users.noreply.github.com>
+Date:   Thu Aug 8 17:09:38 2024 +0400
+
+    fix: Fix internal transactions runner test for zetachain (#10576)
+
+[33mcommit 6c072464466f3ed51dbb437ef62fb0ccea594c11[m
+Author: Fedor Ivanov <ivnfedor@gmail.com>
+Date:   Tue Aug 6 19:40:49 2024 +0300
+
+    feat: support for `:celo` chain type (#10564)
+    
+    * feat: indexing of Celo transactions (#10275)
+    
+    * feat(json-rpc): support celo-specific fields in transactions
+    
+    * chore: add new chain type to matrix builder
+    
+    * feat: add celo-specific fields to transactions schema
+    
+    * chore: add "celo" to `cspell.json`
+    
+    * chore: fix formatting
+    
+    * refactor: improve naming for celo fields and ignore `ethCompatible` field
+    
+    * chore: add block fetcher test for celo fields
+    
+    * feat: add celo core contract abis
+    
+    * feat: add a cache for core celo contracts
+    
+    * feat: treat celo native token transfers as token transfers
+    
+    * fix: update `cspell.json` with celo words
+    
+    * fix(dialyzer): pattern can never match the type
+    
+    * fix: update `cspell.json` with celo words
+    
+    * feat: move `CELO_NETWORK` env to config
+    
+    * feat: parse native Celo token transfers from internal transactions
+    
+    * feat: add token balances fetching
+    
+    * refactor: remove `dbg` and organize code better
+    
+    * fix: start TokenBalance fetcher
+    
+    * fix: start token balance fetcher
+    
+    * fix: typo in log message
+    
+    * fix: missing fields in celo transaction token transfer
+    
+    * refactor: remove `AbiHandler` in favour of hardcoded pieces of abi
+    
+    * refactor: native token transfers from internal transactions fether
+    
+    * feat: implement parsing of token transfers for traceable rpc node
+    
+    * feat: fetch address coin balances after  erc20 celo token transfers
+    
+    * feat: add `gas_token` to transaction response in api v2
+    
+    * feat: index tokens specified as `feeCurrency`
+    
+    * chore: fix credo warnings
+    
+    * chore: decrease log level to debug
+    
+    * chore: fix cspell warnings
+    
+    * refactor: apply suggestions
+    
+    * fix: handle case when `gas_token` is not loaded
+    
+    * dbg
+    
+    * chore: expect contract calls in celo fetcher test
+    
+    * fix: compile errors for celo view on default chain type
+    
+    * chore: remove unused import
+    
+    * refactor: move `celo_gas_tokens` to chain type imports
+    
+    * refactor: apply suggestions
+    
+    * fix: swap arguments in `put_if_present`
+    
+    * fix: indexer tests
+    
+    * refactor: always include `gas_token` to the response
+    
+    * feat: add `gas_token` to all transaction-related endpoints
+    
+    * feat: celo core contracts with historical data
+    
+    * fix: `uncles` field is expected but not present in RPC node response
+    
+    * fix: credo & format
+    
+    * fix: define `CELO_CORE_CONTRACTS` in tests
+    
+    * fix: put `gas_token`  under `celo` section
+    
+    * refactor: move token transfers filtering from `TokenTotalSupplyUpdater` to `Transform.TokenTransfers`
+    
+    * feat: add workflow to publish docker image
+    
+    * refactor: apply suggestions by @nikitosing
+    
+    * chore: add docs and specs
+    
+    * fix: malformed import
+    
+    * fix: publish image for celo
+    
+    * fix: ci build for celo
+    
+    * feat: index celo epoch transactions (#9944)
+    
+    * feat(json-rpc): support celo-specific fields in transactions
+    
+    * chore: add new chain type to matrix builder
+    
+    * feat: add celo-specific fields to transactions schema
+    
+    * chore: add "celo" to `cspell.json`
+    
+    * chore: fix formatting
+    
+    * refactor: improve naming for celo fields and ignore `ethCompatible` field
+    
+    * chore: add block fetcher test for celo fields
+    
+    * feat: add celo core contract abis
+    
+    * feat: add a cache for core celo contracts
+    
+    * feat: treat celo native token transfers as token transfers
+    
+    * fix: update `cspell.json` with celo words
+    
+    * fix(dialyzer): pattern can never match the type
+    
+    * fix: update `cspell.json` with celo words
+    
+    * feat: move `CELO_NETWORK` env to config
+    
+    * feat: parse native Celo token transfers from internal transactions
+    
+    * feat: add token balances fetching
+    
+    * refactor: remove `dbg` and organize code better
+    
+    * fix: start TokenBalance fetcher
+    
+    * fix: start token balance fetcher
+    
+    * fix: typo in log message
+    
+    * fix: missing fields in celo transaction token transfer
+    
+    * refactor: remove `AbiHandler` in favour of hardcoded pieces of abi
+    
+    * refactor: native token transfers from internal transactions fether
+    
+    * feat: implement parsing of token transfers for traceable rpc node
+    
+    * feat: fetch address coin balances after  erc20 celo token transfers
+    
+    * feat: add `gas_token` to transaction response in api v2
+    
+    * feat: index tokens specified as `feeCurrency`
+    
+    * chore: fix credo warnings
+    
+    * chore: decrease log level to debug
+    
+    * chore: fix cspell warnings
+    
+    * refactor: apply suggestions
+    
+    * fix: handle case when `gas_token` is not loaded
+    
+    * dbg
+    
+    * chore: expect contract calls in celo fetcher test
+    
+    * fix: compile errors for celo view on default chain type
+    
+    * chore: remove unused import
+    
+    * refactor: move `celo_gas_tokens` to chain type imports
+    
+    * refactor: apply suggestions
+    
+    * fix: swap arguments in `put_if_present`
+    
+    * fix: indexer tests
+    
+    * refactor: always include `gas_token` to the response
+    
+    * feat: add `gas_token` to all transaction-related endpoints
+    
+    * feat: celo core contracts with historical data
+    
+    * fix: `uncles` field is expected but not present in RPC node response
+    
+    * fix: credo & format
+    
+    * fix: define `CELO_CORE_CONTRACTS` in tests
+    
+    * fix: put `gas_token`  under `celo` section
+    
+    * refactor: move token transfers filtering from `TokenTotalSupplyUpdater` to `Transform.TokenTransfers`
+    
+    * feat: add workflow to publish docker image
+    
+    * refactor: apply suggestions by @nikitosing
+    
+    * chore: add docs and specs
+    
+    * fix: malformed import
+    
+    * feat: add pending epoch operations table
+    
+    * refactor: fix format
+    
+    * feat: add transformers for epoch events
+    
+    * feat: add query to stream pending epoch block operations
+    
+    * fix: call to renamed function
+    
+    * fix: add factory method for pending epoch block operation
+    
+    * feat: add utils for logs parsing
+    
+    * feat: add schemas for epoch rewards and election rewards
+    
+    * fix: rename transformer according to event name
+    
+    * feat: implement epoch rewards fetcher
+    
+    * feat: fetch and import epoch logs
+    
+    * feat: improve epoch rewards fetcher
+    
+    1. Do not fetch logs -- use the ones stored in DB
+    2. Import epochs to the database
+    3. Configure fetcher in runtime.exs
+    
+    * feat: add epoch helper functions
+    
+    * activated_validator_group_vote.ex
+    
+    * feat: add task to fetch core contracts
+    
+    * feat: fetch core contract events in the task
+    
+    * fix: merge artifacts
+    
+    * refactor: logs requests and reduce scope of epoch logs request
+    
+    * chore: fix formatting, credo warning, etc.
+    
+    * feat: fetch epoch rewards in one sql query
+    
+    * feat: fetch validator group votes (historical data and on demand)
+    
+    * refactor: rename fields and replace all entries on conflict
+    
+    * feat: validator group votes fetcher
+    
+    * fix: put each topic in a separate request
+    
+    * feat: fetch voter rewards
+    
+    * refactor: split epoch fetcher to multiple modules
+    
+    * feat: send epoch blocks for async fetching from block fetcher
+    
+    * chore: fix credo and formatting issues
+    
+    * fix: dialyzer warnings
+    
+    * fix: add on demand fetch of group votes
+    
+    * fix: failed explorer and indexer tests
+    
+    * fix: block fetcher tests
+    
+    * fix: match error in epoch logs
+    
+    * feat: add env to manage logs batch size when fetching validator group votes
+    
+    * fix: Add `ssl_opts` for Celo repo
+    
+    * fix: add `disabled?` predicate to supervisor config
+    
+    * fix: return empty list when `getPaymentDelegation` is not available
+    
+    * fix: validate the case when there is no voter rewards for an epoch
+    
+    * fix: formatting
+    
+    * fix: import `put_if_present/3`
+    
+    * fix: do not treat genesis block as an epoch block
+    
+    * fix: some of the fetcher tests
+    
+    * dbg
+    
+    * chore: remove commented code
+    
+    * chore: canonical disable flag env name
+    
+    * fix: run test only for celo chain type
+    
+    * fix: add explicit `wait_ for_tasks` in token instance realtime test
+    
+    * fix: set missing `CELO_CORE_CONTRACTS` env
+    
+    * fix: rollback token instance realtime test
+    
+    * chore: remove debug artifact
+    
+    * chore: add docs for new tables
+    
+    * perf: remove unused fields from `celo_validator_group_votes` table
+    
+    * fix: add on_exit clause
+    
+    * refactor: use `remove/3` function for migration rollback possibility
+    
+    * refactor: extract celo core contracts environment variable setup into a separate function
+    
+    * chore: add new vars to `common-blockscout.env` file
+    
+    * chore: add specs and docs for new modules and functions
+    
+    * refactor: eliminate unused import warnings
+    
+    * fix: credo warning
+    
+    * feat: API for celo epoch rewards and fees breakdown  (#10308)
+    
+    * feat(json-rpc): support celo-specific fields in transactions
+    
+    * chore: add new chain type to matrix builder
+    
+    * feat: add celo-specific fields to transactions schema
+    
+    * chore: add "celo" to `cspell.json`
+    
+    * chore: fix formatting
+    
+    * refactor: improve naming for celo fields and ignore `ethCompatible` field
+    
+    * chore: add block fetcher test for celo fields
+    
+    * feat: add celo core contract abis
+    
+    * feat: add a cache for core celo contracts
+    
+    * feat: treat celo native token transfers as token transfers
+    
+    * fix: update `cspell.json` with celo words
+    
+    * fix(dialyzer): pattern can never match the type
+    
+    * fix: update `cspell.json` with celo words
+    
+    * feat: move `CELO_NETWORK` env to config
+    
+    * feat: parse native Celo token transfers from internal transactions
+    
+    * feat: add token balances fetching
+    
+    * refactor: remove `dbg` and organize code better
+    
+    * fix: start TokenBalance fetcher
+    
+    * fix: start token balance fetcher
+    
+    * fix: typo in log message
+    
+    * fix: missing fields in celo transaction token transfer
+    
+    * refactor: remove `AbiHandler` in favour of hardcoded pieces of abi
+    
+    * refactor: native token transfers from internal transactions fether
+    
+    * feat: implement parsing of token transfers for traceable rpc node
+    
+    * feat: fetch address coin balances after  erc20 celo token transfers
+    
+    * feat: add `gas_token` to transaction response in api v2
+    
+    * feat: index tokens specified as `feeCurrency`
+    
+    * chore: fix credo warnings
+    
+    * chore: decrease log level to debug
+    
+    * chore: fix cspell warnings
+    
+    * refactor: apply suggestions
+    
+    * fix: handle case when `gas_token` is not loaded
+    
+    * dbg
+    
+    * chore: expect contract calls in celo fetcher test
+    
+    * fix: compile errors for celo view on default chain type
+    
+    * chore: remove unused import
+    
+    * refactor: move `celo_gas_tokens` to chain type imports
+    
+    * refactor: apply suggestions
+    
+    * fix: swap arguments in `put_if_present`
+    
+    * fix: indexer tests
+    
+    * feat: add pending epoch operations table
+    
+    * feat: add several celo core contracts
+    
+    * refactor: fix format
+    
+    * feat: add new core contract default addresses
+    
+    * feat: add transformers for epoch events
+    
+    * feat: add query to stream pending epoch block operations
+    
+    * fix: call to renamed function
+    
+    * fix: add factory method for pending epoch block operation
+    
+    * feat: add utils for logs parsing
+    
+    * feat: add schemas for epoch rewards and election rewards
+    
+    * fix: rename transformer according to event name
+    
+    * feat: implement epoch rewards fetcher
+    
+    * feat: fetch and import epoch logs
+    
+    * feat: improve epoch rewards fetcher
+    
+    1. Do not fetch logs -- use the ones stored in DB
+    2. Import epochs to the database
+    3. Configure fetcher in runtime.exs
+    
+    * fix: remove duplicated module attribute
+    
+    * feat: add epoch helper functions
+    
+    * activated_validator_group_vote.ex
+    
+    * feat: tmp
+    
+    * refactor: always include `gas_token` to the response
+    
+    * feat: add `gas_token` to all transaction-related endpoints
+    
+    * feat: celo core contracts with historical data
+    
+    * fix: `uncles` field is expected but not present in RPC node response
+    
+    * fix: credo & format
+    
+    * fix: define `CELO_CORE_CONTRACTS` in tests
+    
+    * fix: put `gas_token`  under `celo` section
+    
+    * refactor: move token transfers filtering from `TokenTotalSupplyUpdater` to `Transform.TokenTransfers`
+    
+    * feat: add workflow to publish docker image
+    
+    * refactor: apply suggestions by @nikitosing
+    
+    * chore: add docs and specs
+    
+    * fix: malformed import
+    
+    * feat: add pending epoch operations table
+    
+    * refactor: fix format
+    
+    * feat: add transformers for epoch events
+    
+    * feat: add query to stream pending epoch block operations
+    
+    * fix: call to renamed function
+    
+    * fix: add factory method for pending epoch block operation
+    
+    * feat: add utils for logs parsing
+    
+    * feat: add schemas for epoch rewards and election rewards
+    
+    * fix: rename transformer according to event name
+    
+    * feat: implement epoch rewards fetcher
+    
+    * feat: fetch and import epoch logs
+    
+    * feat: improve epoch rewards fetcher
+    
+    1. Do not fetch logs -- use the ones stored in DB
+    2. Import epochs to the database
+    3. Configure fetcher in runtime.exs
+    
+    * feat: add epoch helper functions
+    
+    * activated_validator_group_vote.ex
+    
+    * feat: add task to fetch core contracts
+    
+    * feat: fetch core contract events in the task
+    
+    * fix: merge artifacts
+    
+    * refactor: logs requests and reduce scope of epoch logs request
+    
+    * chore: fix formatting, credo warning, etc.
+    
+    * feat: fetch epoch rewards in one sql query
+    
+    * feat: fetch validator group votes (historical data and on demand)
+    
+    * refactor: rename fields and replace all entries on conflict
+    
+    * feat: validator group votes fetcher
+    
+    * fix: put each topic in a separate request
+    
+    * feat: fetch voter rewards
+    
+    * fix: merge artifacts
+    
+    * feat: add epoch rewards in block api response
+    
+    * fix: merge artifacts
+    
+    * feat: add base fee breakdown in block api response
+    
+    * feat: add aggregated election rewards to block api response
+    
+    * perf: use replica when querying epoch rewards
+    
+    * feat: endpoint for paginated election rewards
+    
+    * feat: endpoint for paginated election rewards for address
+    
+    * chore: rename `rewards` to `distributions`
+    
+    * fix: add missing reward type to API error message
+    
+    * refactor: split epoch fetcher to multiple modules
+    
+    * feat: send epoch blocks for async fetching from block fetcher
+    
+    * chore: fix credo and formatting issues
+    
+    * fix: dialyzer warnings
+    
+    * fix: add on demand fetch of group votes
+    
+    * fix: failed explorer and indexer tests
+    
+    * fix: block fetcher tests
+    
+    * chore: remove unused module
+    
+    * fix: sort election rewards by block number
+    
+    * fix: match error in epoch logs
+    
+    * feat: add env to manage logs batch size when fetching validator group votes
+    
+    * fix: credo and formatting warnings
+    
+    * fix: cspell errors
+    
+    * fix: dialyzer errors
+    
+    * fix: Add `ssl_opts` for Celo repo
+    
+    * fix: add missing preloads and make more explicit api response for block
+    
+    * fix: add `disabled?` predicate to supervisor config
+    
+    * fix: return empty list when `getPaymentDelegation` is not available
+    
+    * fix: validate the case when there is no voter rewards for an epoch
+    
+    * fix: formatting
+    
+    * fix: add missing preload
+    
+    * refactor: more robust fees breakdown logic for the case of fee handler
+    
+    * fix: formatting
+    
+    * refactor: move epoch information to the separate endpoint
+    
+    * fix: import `put_if_present/3`
+    
+    * fix: formatting
+    
+    * fix: do not treat genesis block as an epoch block
+    
+    * fix: some of the fetcher tests
+    
+    * dbg
+    
+    * chore: remove commented code
+    
+    * chore: canonical disable flag env name
+    
+    * fix: run test only for celo chain type
+    
+    * fix: add explicit `wait_ for_tasks` in token instance realtime test
+    
+    * fix: set missing `CELO_CORE_CONTRACTS` env
+    
+    * fix: rollback token instance realtime test
+    
+    * chore: remove debug artifact
+    
+    * chore: add `@docs` and `@specs`
+    
+    * fix: missing core contracts var in tests
+    
+    * feat: extend `tabs-counters` endpoint with election rewards count
+    
+    * refactor: move dead address to `Explorer.Chain.SmartContract`
+    
+    * perf: clause with simplified queries in the case of `amount == 0` and/or `block_number == 0`
+    
+    * fix: it comes that `NotLoaded` clause is not redundant actually...
+    
+    * fix: add missing preload in `BlockScoutWeb.AddressChannel`
+    
+    * chore: unset `CELO_CORE_CONTRACTS` in tests
+    
+    * chore: add missing specs
+    
+    * fix: `paginate` clause when `amount == 0`
+    
+    * refactor: move `paging_options/2` to `Explorer.Chain.Celo.ElectionReward`
+    
+    * refactor: avoid using virtual field for block number.
+    
+    * fix: remove redundant condition in the  query
+    
+    * chore: clarify `@spec`
+    
+    * chore: fix credo warning
+    
+    * chore: remove `fi-celo` from branches that trigger ci
+    
+    * fix: merge artifacts
+    
+    * fix: remove todo comment
+
+[33mcommit 307f6f166bea33139de1956b8fb3e7ef5198a7d0[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Aug 5 15:42:41 2024 +0300
+
+    Chore: Add workflow to generate separate pre-release indexer/API images for Arbitrum
+
+[33mcommit bc7f6a796720a81b4c050235fe8bacf824b9c383[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Jul 15 12:28:19 2024 +0300
+
+    Indexer/API docker images from production-optimism branch
+
+[33mcommit c20ce8dd11a8ac86714152745c4831a74600085a[m
+Author: nikitosing <32202610+nikitosing@users.noreply.github.com>
+Date:   Tue Jul 2 15:46:17 2024 +0300
+
+    fix: Add rescue on tx revert reason fetching (#10366)
+    
+    * fix: Add rescue on tx revert reason fetching
+    
+    * Build image for HF
+    
+    * Fix workflow
+
+[33mcommit 7fe5bb98dedeb5438d4220fd4a430cdd80f954fc[m
+Author: Kirill Fedoseev <kirill@blockscout.com>
+Date:   Mon Jul 1 22:04:33 2024 +0400
+
+    chore: bump elixir to 1.16.3 and Erlang OTP to 26.2.5.1 (#9256)
+    
+    * feat: bump elixir to 1.16.0
+    
+    * fix: failing tests
+    
+    * fix: one more test
+    
+    * fix: qemu arm build
+    
+    * fix: failing market test
+    
+    * fix: override version in ci
+    
+    * chore: bump to 1.16.1
+    
+    * fix: ci config override
+    
+    * chore: bump to 1.16.3
+    
+    * chore: mix format
+    
+    * fix: faulty explorer tests
+    
+    * fix: faulty block_scout_web tests
+    
+    * chore: lint
+    
+    * ci: remove arm build workaround
+    
+    * chore: fix negative slice warnings
+    
+    * Erlang 26.2.5.1
+    
+    ---------
+    
+    Co-authored-by: Viktor Baranov <baranov.viktor.27@gmail.com>
+
+[33mcommit ae2e1377edaebb67cc762fd33c3a4e539cd4c8c6[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Jun 19 15:11:56 2024 +0300
+
+    Pre-release workflow for Arbitrum
+
+[33mcommit d0ec50eb951b131c0549a42760f3709eb0dc8ead[m
+Author: Kirill Fedoseev <kirill@blockscout.com>
+Date:   Fri Jun 7 16:16:17 2024 +0200
+
+    feat(ci): use remote arm64 builder (#9468)
+    
+    * feat(ci): multi-platform remote build
+    
+    * set arm runner secret, update runner hosts
+    
+    * select one builder and persist it
+    
+    * select one builder and persist it
+    
+    * find the least busy arm builder
+    
+    * chore: update ci configs post rebase
+    
+    * enable remote build in every workflow
+    
+    ---------
+    
+    Co-authored-by: aagaev <alik@agaev.me>
+
+[33mcommit eddaeadc053ae51fcb526eab8e17cf74d5345909[m
+Author: nikitosing <32202610+nikitosing@users.noreply.github.com>
+Date:   Fri Jun 7 14:16:37 2024 +0300
+
+    feat: Add feature toggle for WETH filtering (#10208)
+    
+    * feat: Add feature toggle for WETH filtering
+    
+    * Add new envs to docker-compose/envs/common-blockscout.env
+    
+    * Fix tests
+
+[33mcommit 0e7f09a5f080da790f16201c4aca60ea0802eab5[m
+Author: Qwerty5Uiop <105209995+Qwerty5Uiop@users.noreply.github.com>
+Date:   Mon Jun 3 16:34:37 2024 +0400
+
+    fix: Add a separate db url for events listener (#10164)
+
+[33mcommit d78223929dc8b2a1e8420b6f911bff8c3868603e[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu May 23 17:09:30 2024 +0300
+
+    Indexer/API separated images for Redstone
+
+[33mcommit c6c9a0ca250d7452d62886dadbbd4194fa701b3c[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu May 23 00:23:27 2024 +0300
+
+    Fix GA pre-release && release workflows
+
+[33mcommit 77f313a89b169d84e536728060b49985530d2044[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon May 20 20:43:26 2024 +0300
+
+    Remove custom release CI for Immutable
+
+[33mcommit 2e4e2ec051df3a6998e903c9c80b4dcdee783dd4[m
+Author: Qwerty5Uiop <105209995+Qwerty5Uiop@users.noreply.github.com>
+Date:   Tue May 14 19:30:30 2024 +0400
+
+    fix: Separate indexer setup (#10032)
+    
+    * fix: Separate indexer setup
+    
+    * Configure CI for sepate images for indexer and API
+    
+    * Change CI for every push to master branch (build separate indexer/api images)
+    
+    * Add DISABLE_API env var
+    
+    * Indexing status improvements for api instance
+    
+    ---------
+    
+    Co-authored-by: Viktor Baranov <baranov.viktor.27@gmail.com>
+
+[33mcommit fb4fde678d99a7dfc4ce5c066a6758b947a0fcc3[m
+Author: Kirill Fedoseev <kirill@blockscout.com>
+Date:   Fri May 10 14:56:59 2024 +0400
+
+    feat: MUD API support (#9869)
+    
+    * feat: mud support
+    
+    * chore: fix ci warnings
+    
+    * feat: skip missing schemas
+    
+    * ci: build redstone image
+    
+    * chore: fix dialyzer
+    
+    * chore: remove noop migration
+    
+    * feat: full-text table search
+    
+    * fix: don't show deleted records
+    
+    * fix: type specs and dializer fixes
+    
+    * feat: checksum addresses
+    
+    * fix: handle invalid params
+    
+    * chore: add missing envs
+
+[33mcommit a7eb86f2be4c0bf75c170875d636730d8f78f676[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri May 3 16:32:23 2024 +0300
+
+    CI for Arbitrum on-demand Docker images
+
+[33mcommit a8f9848fd9b1a1c89522eb239226843c34f40d34[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri May 3 16:29:13 2024 +0300
+
+    Remove update of latest tag except release CI for chains, which managed via CHAIN_TYPE
+
+[33mcommit 30d0bb5668be4911b9678205a887c421de916f5f[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri Apr 26 12:00:18 2024 +0300
+
+    Extract Shibarium to a separate CI workflow
+
+[33mcommit 697cb354a2df30b1a8f626e29071373a32c94422[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri Apr 26 11:46:42 2024 +0300
+
+    Extract Shibarium to a separate CI workflow
+
+[33mcommit 528b3cd6d5549379546fd51c79dc230a3a9fc668[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri Apr 26 09:08:49 2024 +0300
+
+    Fix CI workflow name
+
+[33mcommit c0e07d25337a6c1fa90b5da1301b800a2bf4c598[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Apr 25 15:38:07 2024 +0300
+
+    Add Optimism to pre-release workflow
+
+[33mcommit ac3d00acd2210fe70798da83730c39a01d0f5b43[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Thu Apr 4 16:23:53 2024 +0300
+
+    Add zksync to pre-release CI
+
+[33mcommit 0f153faf944fa3a0a84c8a7a5661c6b0e1988367[m
+Author: nikitosing <32202610+nikitosing@users.noreply.github.com>
+Date:   Wed Apr 3 20:12:46 2024 +0300
+
+    feat: Add rate limits to graphQL API (#9771)
+    
+    * feat: Add rate limits to graphQL API
+    
+    * Fix tests
+    
+    * Process review comments
+    
+    * Update common-blockscout.env
+
+[33mcommit 167196633612a86b178df3f0b248d706c6dd3451[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Apr 3 16:10:52 2024 +0300
+
+    feat: internal txs fetching for Arbitrum (#9737)
+    
+    * Arbitrum internal transactions fetching support
+    
+    * Remove arbitrum JSON RPC variant
+    
+    * CHAIN_TYPE=arbitrum
+    
+    * Add indexer test
+    
+    * Update apps/explorer/lib/explorer/chain/internal_transaction/call_type.ex
+    
+    Co-authored-by: Kirill Fedoseev <kirill@blockscout.com>
+    
+    * Update apps/explorer/lib/explorer/chain/internal_transaction/type.ex
+    
+    Co-authored-by: Kirill Fedoseev <kirill@blockscout.com>
+    
+    * Process review comments
+    
+    ---------
+    
+    Co-authored-by: Kirill Fedoseev <kirill@blockscout.com>
+
+[33mcommit 92ac44cca95bf938a4d1099c5c3d13602aefb80d[m
+Author: Kirill Fedoseev <kirill@blockscout.com>
+Date:   Wed Apr 3 14:27:49 2024 +0400
+
+    ci: rework chain type matrix in CI runs (#9704)
+    
+    * ci: remove polygon edge and suave from CI runs
+    
+    * ci: run chain type workflows based on pr labels
+    
+    * chore: keep suave and polygon_edge as optional
+    
+    * ci: update matrix selection logic
+    
+    * ci: re-run ci if PR is relabeled
+    
+    * ci: fix default chain type
+    
+    * ci: refactor default chain types
+
+[33mcommit 00409567cec897dbce28ff4063e270945f0ccf2a[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Tue Apr 2 16:39:29 2024 +0300
+
+    chore: Exclude latest tag update from alpha releases (#9800)
+
+[33mcommit b80c3a2d3dc580ba9d15a4de1f2db86d320b6ddb[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Mar 20 12:39:42 2024 +0300
+
+    Disallow zksync release workflow dispatch
+
+[33mcommit b6807881baa5b3d23f283350f33c55257fa5e27e[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Mar 20 09:57:44 2024 +0300
+
+    Allow to manually trigger zksync workflow
+
+[33mcommit 329ed6beca7223e5f98c97f1fb7c4528c12f8768[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Mar 20 09:39:26 2024 +0300
+
+    Update CHANGELOG, add zksync release workflow
+
+[33mcommit 51d82f1dbf3b12b6c1ca2751862b8c125aaa816c[m
+Author: Alexander Kolotov <alexandr.kolotov@gmail.com>
+Date:   Thu Mar 14 10:36:30 2024 +0300
+
+    zksync chain type support (#9631)
+    
+    * zkSync customizations
+    
+    * Insert placeholders instead of deriving current token balances
+    
+    * ZkSync Batches status tracking (#9080)
+    
+    * initial version of batch tracking
+    
+    * missed file added
+    
+    * attempt to add DB migration
+    
+    * Finalized L1 txs tracking
+    
+    * keep batches in DB
+    
+    * Batches statuses tracker introduction
+    
+    * rpc endponts to get batches data
+    
+    * extended views for blocks and transactions
+    
+    * Refactoring of fetchers
+    
+    * Fetch historical blocks
+    
+    * handle_info calls simplified
+    
+    * Ability to recover missed blocks
+    
+    * zksync info in a separate sub-map
+    
+    * added doc comments, part 1
+    
+    * finalized doc comments
+    
+    * actual bathes count instead of the last imported batch
+    
+    * fix formatting
+    
+    * credo fixes
+    
+    * Address dialyzer warnings
+    
+    * Fix spelling
+    
+    * remaining issues with spelling and dialyzer
+    
+    * Attempt to address BlockScout Web Tests issue
+    
+    * review comments addressed, part 1
+    
+    * review comments addressed, part 2
+    
+    * collection all_options for import module reworked to get rid of dialyzer findings
+    
+    * removed unnecessary functionality
+    
+    * proper import
+    
+    * Credo fixes
+    
+    * Add CHAIN_TYPE=zksync to image generation workflow
+    
+    * Proper handling of empty transactions list in etc_getBlockByNumber
+    
+    * Merge master
+    
+    * Address merge issues
+    
+    * Fix format
+    
+    * Refactoring of chain type specific code for block and transaction views
+    
+    * Consistent name for functions
+    
+    * add exceptions for Credo.Check.Design.AliasUsage
+    
+    * Fix rebasing conflicts
+    
+    * Fix rebase conflicts
+    
+    * fix issue with stability fees in tx view
+    
+    * make Stability related tests dependent on chain type in compile time
+    
+    * move zksync related migration
+    
+    * Changelog updated
+    
+    * removal of duplicated migration
+    
+    * List r,s,v as optional attributes for transaction
+    
+    ---------
+    
+    Co-authored-by: Viktor Baranov <baranov.viktor.27@gmail.com>
+    Co-authored-by: Qwerty5Uiop <alex000010@bk.ru>
+
+[33mcommit de905162a0a0816997db6f3824ecc0c2d96e6a0f[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Wed Mar 13 20:05:33 2024 +0300
+
+    Release workflow for Gnosis chain
+
+[33mcommit a8cd7085b84078ae9eb4c16f2385747a6634aea9[m
+Author: Fedor Ivanov <ivnfedor@gmail.com>
+Date:   Wed Mar 13 19:59:19 2024 +0300
+
+    Setup alternative hex.pm mirrors (#9622)
+    
+    * Setup alternative hex.pm mirrors
+    
+    * Update `CHANGELOG.md`
+
+[33mcommit cfdd5b6f921ab99ebc0a06b55def501b87f6c27c[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Sun Mar 10 17:58:18 2024 +0300
+
+    Aff fallback for OTP_VERSION and ELIXIR_VERSION in the main CI workflow
+
+[33mcommit c81f9004ab6f696f589bf6f1ed5cb4fbbd2934f2[m
+Author: Viktor Baranov <baranov.viktor.27@gmail.com>
+Date:   Fri Mar 8 12:38:55 2024 +0300
+
+    Prerelease workflow for Ethereum
+
+[33mcommit 9819522ea1bd8e25645fa1195838f188d2a45bfe[m
+Author: Victor Baranov <baranov.viktor.27@gmail.com>
+Date:   Mon Mar 4 13:45:13 2024 +0300
+
+    Optimism chain type (#9460)
+    
+    * Transaction page L1 fields
+    
+    * Path fix
+    
+    * Reduce the number of files from 19 to 5 in logs rotate config
+    
+    * Customize optimism-goerli deployment
+    
+    * Optimism branding
+    
+    * Remove testnet logo text. OG uses customized label
+    
+    * Fix Circles theme
+    
+    * L1 tx fields fix for Optimism BedRock update
+    
+    * Remove redundant line
+    
+    * Add gas_price handling for elixir_to_params and change function ordering
+    
+    * Remove l1TxOrigin handling for another version of RPC
+    
+    * Add GA
+    
+    * Fix realtime fetcher test
+    
+    * Update Changelog
+    
+    * Fix internal transactions processing for non-consensus blocks
+    
+    * Lose consensus only for consensus=true blocks
+    
+    * Fix handling transaction RPC responses without some fields
+    
+    * Fix tests except for indexer module
+    
+    * Add Optimism BedRock support (Txn Batches, Output Roots, Deposits, Withdrawals) (#6980)
+    
+    * Add op_output_roots table
+    
+    * Add OptimismOutputRoots runner
+    
+    * Add initial code for output roots fetcher
+    
+    * Add checks to init function
+    
+    * Partially add logs and L1 reorgs handling
+    
+    * Add reorgs handling
+    
+    * Add RPC retries
+    
+    * Write output roots to database
+    
+    * Log output roots handling
+    
+    * Update indexer README
+    
+    * Add API v2 for Optimism Output Roots
+    
+    * Add op_withdrawals table
+    
+    * Add OptimismWithdrawals runner
+    
+    * Prepare realtime optimism withdrawals fetching
+    
+    * Add realtime optimism withdrawals fetching
+    
+    * Define checks in init function
+    
+    * log.first_topic can be nil
+    
+    * Show total count of output roots in API v2
+    
+    * Add msg_nonce gaps filler
+    
+    * Refactoring
+    
+    * Intermediate refactoring
+    
+    * Add historical withdrawals handling and refactor
+    
+    * Finish op_withdrawals table filling
+    
+    * Small refactoring
+    
+    * Add op_withdrawal_events table
+    
+    * Add OptimismWithdrawalEvents runner
+    
+    * Add OptimismWithdrawalEvent fetcher
+    
+    * Update indexer README
+    
+    * Add API v2 for Optimism Withdrawals
+    
+    * Add env variables to common-blockscout.env and Makefile
+    
+    * Set `from` as address object instead of just address hash for withdrawal
+    
+    * mix format
+    
+    * Add op_transaction_batches table
+    
+    * Add OptimismTxnBatches runner
+    
+    * Add a draft for OptimismTxnBatch fetcher
+    
+    * Add a draft for OptimismTxnBatch
+    
+    * Extend a draft for OptimismTxnBatch
+    
+    * Extend OptimismTxnBatch
+    
+    * Finish OptimismTxnBatch (without reorgs handling yet)
+    
+    * Optimize OptimismTxnBatch fetcher
+    
+    * Remove duplicated txn batches
+    
+    * Add zlib_inflate_handler for empty case
+    
+    * Add reorgs handling for txn batches
+    
+    * Fix reorgs handling for txn batches
+    
+    * Small refactor
+    
+    * Finish Indexer.Fetcher.OptimismTxnBatch (without refactoring yet)
+    
+    * Apply new ex_rlp version
+    
+    * Add API v2 for Optimism Txn Batches
+    
+    * Add env variables to common-blockscout.env and Makefile
+    
+    * Refactor OptimismTxnBatch fetcher for mix credo
+    
+    * Replace binary_slice with binary_part function to run with Elixir 1.13
+    
+    * Update changelog
+    
+    * Update indexer readme
+    
+    * Rename op_withdrawals.l2_tx_hash field to l2_transaction_hash
+    
+    * Rename l1_tx_hash fields to l1_transaction_hash
+    
+    * Rename *tx* fields to *transaction* fields
+    
+    * Rename env variables
+    
+    * Rename env variables
+    
+    * Add an indexer helper
+    
+    * Add an indexer helper
+    
+    * Small refactoring
+    
+    * Fix tx_count for txn batches view
+    
+    * Use EthereumJSONRPC.Block.ByHash instead of the raw call
+    
+    * Infinity timeout for blocks query
+    
+    * Small refactoring
+    
+    * Refactor init function for two modules
+    
+    * Small refactoring
+    
+    * Rename l1_transaction_timestamp field to l1_timestamp
+    
+    * Rename withdrawal_hash field to hash
+    
+    * Refactor for decode_data function
+    
+    * Refactor for mix credo
+    
+    * Add INDEXER_OPTIMISM_L1_BATCH_BLOCKS_CHUNK_SIZE env and small refactoring
+    
+    * Add INDEXER_OPTIMISM_L1_BATCH_BLOCKS_CHUNK_SIZE env to other files
+    
+    * Add an index for l1_block_number field
+    
+    * Add an index for l1_block_number field
+    
+    * Remove redundant :ok
+    
+    * Use faster way to count rows in a table
+    
+    * Refactor reorgs monitor functions
+    
+    * Clarify frame structure
+    
+    * Reduce storage consumption for optimism transaction batches
+    
+    * Reuse CacheHelper.estimated_count_from function
+    
+    * Bedrock optimism deposits (#6993)
+    
+    * Create `op_deposits` table
+    
+    * Add OptimismDeposit runner
+    
+    * WIP Fetcher
+    
+    * Finish fetcher
+    
+    * Integrate deposits into APIv2
+    
+    * Add envs
+    
+    * Fix requests
+    
+    * Remove debug
+    
+    * Update envs names
+    
+    * Rename `tx` -> `transaction`
+    
+    * Reuse `decode_data/2`
+    
+    * Fix review
+    
+    * Add `uninstall_filter`
+    
+    * Fix formatting
+    
+    * Switch to realtime mode more carefully
+    
+    * Fix review
+    
+    Allow nil in timestamp
+    Add progress logging
+    Improve check_interval calculation
+    
+    * Fix logging and env
+    
+    * Fix Association.NotLoaded error
+    
+    * Replace switching to realtime mode log
+    
+    * Remove excess start_block
+    
+    * Fix reorg logging
+    
+    * Fix `from_block` > `to_block` and add realtime logging
+    
+    * Fix block boundaries
+    
+    ---------
+    
+    Co-authored-by: POA <33550681+poa@users.noreply.github.com>
+    
+    * mix format
+    
+    * Return total count of L2 entity by a separate API request
+    
+    * Filter by consensus blocks
+    
+    * Parallelize tx count operation and small refactoring
+    
+    * Use read replica for L2 entities in API
+    
+    * Parse block_number and tx_hash for Optimism Deposits module
+    
+    * Return page_size back to 50
+    
+    * Small fixes and refactoring
+    
+    * Update apps/block_scout_web/lib/block_scout_web/api_router.ex
+    
+    Co-authored-by: Maxim Filonov <53992153+sl1depengwyn@users.noreply.github.com>
+    
+    * Small optimization
+    
+    * Use ecto association instead of explicit join for txn batches
+    
+    * Refactoring
+    
+    * Use Stream inspead of Enum
+    
+    * Small refactoring
+    
+    * Add assoc for transaction batches in OptimismFrameSequence
+    
+    * Use common reorg monitor for Optimism modules
+    
+    * Rename Explorer.Helpers to Explorer.Helper
+    
+    * Don't start an optimism module unless the main optimism module is not started
+    
+    * Don't start reorg monitor for optimism modules when it is not needed
+    
+    * Small refactoring
+    
+    * Remove debug broadcasting
+    
+    * Add Optimism BedRock Deposits to the main page in API (#7200)
+    
+    * Add Optimism BedRock Deposits to the main page in API
+    
+    * Update changelog
+    
+    * Pass the number of deposits instead of only one item per once
+    
+    ---------
+    
+    Co-authored-by: POA <33550681+poa@users.noreply.github.com>
+    
+    * Refactor for credo
+    
+    * Output L1 fields in API v2 for transaction page
+    
+    * Update changelog
+    
+    * Use helper
+    
+    * Refactor Indexer.Fetcher.Optimism
+    
+    * Fix l1_timestamp issue in OptimismTxnBatch fetcher
+    
+    * Reset Logger metadata before Indexer.Transform.OptimismWithdrawals.parse function finishes
+    
+    * Fix IDs ordering in remove_duplicates function of Indexer.Fetcher.OptimismTxnBatch
+    
+    * Consider rewriting of the first frame in Indexer.Fetcher.OptimismTxnBatch
+    
+    * Fix Indexer.Fetcher.OptimismTxnBatch (consider chunking)
+    
+    * Fix Indexer.Fetcher.OptimismTxnBatch
+    
+    * Fix handling invalid frame sequences in Indexer.Fetcher.OptimismTxnBatch
+    
+    * Read Optimism finalization period from a smart con
