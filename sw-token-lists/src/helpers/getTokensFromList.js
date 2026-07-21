@@ -1,0 +1,62 @@
+const aptosTokens = require("../tokens/aptos.json");
+const avalancheTokens = require("../tokens/avalanche.json");
+const bitcoinTokens = require("../tokens/bitcoin.json");
+const bnbTokens = require("../tokens/bnb.json");
+const arbitrumTokens = require("../tokens/arbitrum.json");
+const baseTokens = require("../tokens/base.json");
+const cronosTokens = require("../tokens/cronos.json");
+const gnosisTokens = require("../tokens/gnosis.json");
+const hyperevmTokens = require("../tokens/hyperevm.json");
+const lineaTokens = require("../tokens/linea.json");
+const scrollTokens = require("../tokens/scroll.json");
+const zksyncTokens = require("../tokens/zksync.json");
+const polygonZkEvmTokens = require("../tokens/polygon-zkevm.json");
+const optimismTokens = require("../tokens/optimism.json");
+const polygonTokens = require("../tokens/polygon.json");
+const plasmaTokens = require("../tokens/plasma.json");
+const plumeTokens = require("../tokens/plume.json");
+const solanaTokens = require("../tokens/solana.json");
+const sonicTokens = require("../tokens/sonic.json");
+const starknetTokens = require("../tokens/starknet.json");
+const suiTokens = require("../tokens/sui.json");
+const seiTokens = require("../tokens/sei.json");
+const tronTokens = require("../tokens/tron.json");
+const ethereumTokens = require("../tokens/ethereum.json");
+
+const lists = {
+  aptos: aptosTokens,
+  avalanche: avalancheTokens,
+  bitcoin: bitcoinTokens,
+  bnb: bnbTokens,
+  arbitrum: arbitrumTokens,
+  base: baseTokens,
+  cronos: cronosTokens,
+  gnosis: gnosisTokens,
+  hyperevm: hyperevmTokens,
+  linea: lineaTokens,
+  scroll: scrollTokens,
+  zksync: zksyncTokens,
+  "polygon-zkevm": polygonZkEvmTokens,
+  ethereum: ethereumTokens,
+  optimism: optimismTokens,
+  polygon: polygonTokens,
+  plasma: plasmaTokens,
+  plume: plumeTokens,
+  solana: solanaTokens,
+  sonic: sonicTokens,
+  starknet: starknetTokens,
+  sui: suiTokens,
+  sei: seiTokens,
+  tron: tronTokens,
+};
+
+module.exports = function getTokensFromList(networkId) {
+  const list = lists[networkId];
+  if (!list) throw new Error("List is missing");
+
+  const tokens = [];
+  list.forEach((token) => {
+    tokens.push(token);
+  });
+  return tokens;
+};

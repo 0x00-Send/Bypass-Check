@@ -1,0 +1,16 @@
+{
+  "git": {
+    "push": true,
+    "commit": true,
+    "addUntrackedFiles": true,
+    "requireCommits": false
+  },
+  "github": {
+    "release": true,
+    "assets": ["build/*.tokenlist.json", "build/sonarwatch.tokenlists.json"],
+    "autoGenerate": true
+  },
+  "npm": {
+    "publish": false
+  }
+}

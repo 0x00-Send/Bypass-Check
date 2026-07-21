@@ -1,0 +1,37 @@
+[
+  {
+    "chainId": 8453,
+    "address": "0x0000000000000000000000000000000000000000",
+    "decimals": 18,
+    "name": "Ether",
+    "symbol": "ETH",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/common/ETH.png",
+    "tags": ["native"],
+    "extensions": {
+      "coingeckoId": "ethereum"
+    }
+  },
+  {
+    "chainId": 8453,
+    "address": "0x4200000000000000000000000000000000000006",
+    "decimals": 18,
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/common/WETH.png",
+    "tags": ["wnative"],
+    "extensions": {
+      "coingeckoId": "weth"
+    }
+  },
+  {
+    "chainId": 8453,
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/common/USDC.webp",
+    "extensions": {
+      "coingeckoId": "usd-coin"
+    }
+  }
+]

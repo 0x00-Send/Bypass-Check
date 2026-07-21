@@ -1,0 +1,190 @@
+{
+  "aptos": {
+    "id": "aptos",
+    "name": "Aptos",
+    "addressType": "move",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_aptos.png",
+    "rpcEndpoint": "https://fullnode.mainnet.aptoslabs.com/v1"
+  },
+  "avalanche": {
+    "id": "avalanche",
+    "name": "Avalanche",
+    "addressType": "evm",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_avalanche.png",
+    "rpcEndpoint": "https://avalanche-evm.publicnode.com"
+  },
+  "bitcoin": {
+    "id": "bitcoin",
+    "name": "Bitcoin",
+    "addressType": "bitcoin",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png"
+  },
+  "bnb": {
+    "id": "bnb",
+    "name": "BNB",
+    "addressType": "evm",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png",
+    "rpcEndpoint": "https://bsc.publicnode.com"
+  },
+  "arbitrum": {
+    "id": "arbitrum",
+    "name": "Arbitrum",
+    "addressType": "evm",
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png",
+    "rpcEndpoint": "https://1rpc.io/arb"
+  },
+  "base": {
+    "id": "base",
+    "name": "Base",
+    "addressType": "evm",
+    "chainId": 8453,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png",
+    "rpcEndpoint": "https://base.llamarpc.com"
+  },
+  "cronos": {
+    "id": "cronos",
+    "name": "Cronos",
+    "addressType": "evm",
+    "chainId": 25,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png",
+    "rpcEndpoint": "https://1rpc.io/cro"
+  },
+  "gnosis": {
+    "id": "gnosis",
+    "name": "Gnosis",
+    "addressType": "evm",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png",
+    "rpcEndpoint": "https://gnosis.publicnode.com"
+  },
+  "hyperevm": {
+    "id": "hyperevm",
+    "name": "HyperEVM",
+    "addressType": "evm",
+    "chainId": 999,
+    "logoURI": "https://coin-images.coingecko.com/asset_platforms/images/22208/large/hyperliquid.jpg?1740125774",
+    "rpcEndpoint": "https://rpc.hyperliquid.xyz/evm"
+  },
+  "linea": {
+    "id": "linea",
+    "name": "Linea",
+    "addressType": "evm",
+    "chainId": 59144,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png",
+    "rpcEndpoint": "https://1rpc.io/linea"
+  },
+  "scroll": {
+    "id": "scroll",
+    "name": "Scroll",
+    "addressType": "evm",
+    "chainId": 534352,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png",
+    "rpcEndpoint": "https://1rpc.io/scroll"
+  },
+  "zksync": {
+    "id": "zksync",
+    "name": "zkSync",
+    "addressType": "evm",
+    "chainId": 324,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png",
+    "rpcEndpoint": "https://mainnet.era.zksync.io"
+  },
+  "polygon-zkevm": {
+    "id": "polygon-zkevm",
+    "name": "Polygon ZkEvm",
+    "addressType": "evm",
+    "chainId": 1101,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png",
+    "rpcEndpoint": "https://1rpc.io/polygon/zkevm"
+  },
+  "ethereum": {
+    "id": "ethereum",
+    "name": "Ethereum",
+    "addressType": "evm",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_ethereum.png"
+  },
+  "optimism": {
+    "id": "optimism",
+    "name": "Optimism",
+    "addressType": "evm",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_optimism.png",
+    "rpcEndpoint": "https://mainnet.optimism.io"
+  },
+  "plasma": {
+    "id": "plasma",
+    "name": "Plasma",
+    "addressType": "evm",
+    "chainId": 9745,
+    "logoURI": "https://assets.coingecko.com/coins/images/66489/standard/Plasma-symbol-green-1.png",
+    "rpcEndpoint": "https://rpc.plasma.to"
+  },
+  "plume": {
+    "id": "plume",
+    "name": "Plume",
+    "addressType": "evm",
+    "chainId": 98866,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_plume.png",
+    "rpcEndpoint": "https://rpc.plume.org"
+  },
+  "polygon": {
+    "id": "polygon",
+    "name": "Polygon",
+    "addressType": "evm",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_polygon.png",
+    "rpcEndpoint": "https://polygon-rpc.com/"
+  },
+  "solana": {
+    "id": "solana",
+    "name": "Solana",
+    "addressType": "solana",
+    "chainId": 101,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_solana.png",
+    "rpcEndpoint": "https://api.mainnet-beta.solana.com"
+  },
+  "sonic": {
+    "id": "sonic",
+    "name": "Sonic",
+    "addressType": "evm",
+    "chainId": 146,
+    "logoURI": "https://assets.coingecko.com/coins/images/38108/standard/200x200_Sonic_Logo.png",
+    "rpcEndpoint": "https://rpc.soniclabs.com"
+  },
+  "starknet": {
+    "id": "starknet",
+    "name": "Starknet",
+    "addressType": "starknet",
+    "chainId": 234485,
+    "logoURI": "https://assets.coingecko.com/coins/images/26433/standard/starknet.png",
+    "rpcEndpoint": "https://starknet-mainnet.public.blastapi.io"
+  },
+  "sui": {
+    "id": "sui",
+    "name": "Sui",
+    "addressType": "move",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png",
+    "rpcEndpoint": "https://fullnode.mainnet.sui.io"
+  },
+  "sei": {
+    "id": "sei",
+    "name": "Sei",
+    "addressType": "sei",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/lists/sw_none.png"
+  },
+  "tron": {
+    "id": "tron",
+    "name": "Tron",
+    "addressType": "tron",
+    "chainId": 728126428,
+    "logoURI": "https://assets.coingecko.com/coins/images/1094/standard/tron-logo.png"
+  }
+}

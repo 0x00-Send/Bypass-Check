@@ -1,0 +1,33 @@
+{
+  "env": {
+    "es2021": true,
+    "node": true,
+    "jest": true,
+    "browser": true
+  },
+  "extends": [
+    "airbnb-base",
+    "plugin:@typescript-eslint/recommended",
+    "airbnb-typescript/base",
+    "prettier"
+  ],
+  "parser": "@typescript-eslint/parser",
+  "parserOptions": {
+    "ecmaVersion": 2021,
+    "sourceType": "module",
+    "project": "./tsconfig.eslint.json"
+  },
+  "plugins": ["@typescript-eslint"],
+  "rules": {
+    "@typescript-eslint/lines-between-class-members": "off",
+    "import/prefer-default-export": "off",
+    "no-restricted-syntax": "off",
+    "no-await-in-loop": "off",
+    "no-continue": "off",
+    "no-underscore-dangle": ["error", { "allowAfterThis": true }],
+    "class-methods-use-this": [
+      "error",
+      { "exceptMethods": ["uniformTokenAddress"] }
+    ]
+  }
+}

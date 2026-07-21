@@ -1,0 +1,1810 @@
+[
+  {
+    "chainId": 101,
+    "address": "11111111111111111111111111111111",
+    "symbol": "SOL",
+    "name": "Solana",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/11111111111111111111111111111111.webp",
+    "tags": ["native"],
+    "extensions": { "coingeckoId": "solana" }
+  },
+  {
+    "chainId": 101,
+    "address": "So11111111111111111111111111111111111111112",
+    "symbol": "wSOL",
+    "name": "Wrapped SOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/So11111111111111111111111111111111111111112.webp",
+    "tags": ["wnative"],
+    "extensions": { "coingeckoId": "wrapped-solana" }
+  },
+  {
+    "chainId": 101,
+    "address": "2rBe6BQkc8QcUoHL9jCBDXxGkcKcsLVKqeEdNeX78BmD",
+    "decimals": 9,
+    "name": "Everlend mSOL",
+    "symbol": "evmSOL",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2rBe6BQkc8QcUoHL9jCBDXxGkcKcsLVKqeEdNeX78BmD.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "D8pzcjm65PkQZQLB7E96Xcy2nQ9kM47W9YMRJyNbTg6D",
+    "decimals": 9,
+    "name": "Everlend SOL",
+    "symbol": "evSOL",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/D8pzcjm65PkQZQLB7E96Xcy2nQ9kM47W9YMRJyNbTg6D.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "59GoK1MNhkm7BkjheiwionvGb7s7Zrj3C55CmPPohggv",
+    "decimals": 6,
+    "name": "Everlend USDC",
+    "symbol": "evUSDC",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/59GoK1MNhkm7BkjheiwionvGb7s7Zrj3C55CmPPohggv.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "ERwFnz8xbtqDqyEkoHTAWNT6j4q3hVLduh5VtQkgPnbQ",
+    "decimals": 6,
+    "name": "Everlend USDT",
+    "symbol": "evUSDT",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/ERwFnz8xbtqDqyEkoHTAWNT6j4q3hVLduh5VtQkgPnbQ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GDKnTsTqT7EnERH2fiW22xk5JnhSaDHUVjcq64EKx97f",
+    "decimals": 6,
+    "name": "Cega Vault (#7 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GDKnTsTqT7EnERH2fiW22xk5JnhSaDHUVjcq64EKx97f.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "7GNd2aZ5Wp5fCViocb1CGPWj8FfS5A2xd2qbSJBeXmik",
+    "decimals": 6,
+    "name": "Cega Vault (#4 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7GNd2aZ5Wp5fCViocb1CGPWj8FfS5A2xd2qbSJBeXmik.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5WMSKrMT9rywDrxp1S4MpqgvVmXw2Bkt8ZKW2A4sF4SA",
+    "decimals": 6,
+    "name": "Cega Vault (#19 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5WMSKrMT9rywDrxp1S4MpqgvVmXw2Bkt8ZKW2A4sF4SA.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "25sYvTwHsyj978TtiVMPT9A1KkyY9Zna9YKDKr2KptSW",
+    "decimals": 6,
+    "name": "Cega Vault (#4 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/25sYvTwHsyj978TtiVMPT9A1KkyY9Zna9YKDKr2KptSW.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5LsR55fEKQgBtbhgTz8wQx4RwdxXDRHwXUBcXESotYNe",
+    "decimals": 6,
+    "name": "Cega Vault (#7 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5LsR55fEKQgBtbhgTz8wQx4RwdxXDRHwXUBcXESotYNe.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "tdQqHxuBEP8qN4ZF4XdQ15wdAqUAjpAEpvjT4ABNS3u",
+    "decimals": 6,
+    "name": "Cega Vault (#3 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/tdQqHxuBEP8qN4ZF4XdQ15wdAqUAjpAEpvjT4ABNS3u.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "7h2jqNrjp1e5z4aYFP3kCvtY6idpqrgU9bTSSJSmvkbv",
+    "decimals": 6,
+    "name": "Cega Vault (#6 Supercharger)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7h2jqNrjp1e5z4aYFP3kCvtY6idpqrgU9bTSSJSmvkbv.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9JKq1HTrz1wtD6WmLxm1BUe6i1ujowxQMnq9Rwj5Kem1",
+    "decimals": 6,
+    "name": "Cega Vault (#2 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9JKq1HTrz1wtD6WmLxm1BUe6i1ujowxQMnq9Rwj5Kem1.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "DSSfGSAPWhAyXVh55zn8Sg2tHUs8RyT6sa6cs4vnWg7V",
+    "decimals": 6,
+    "name": "Cega Vault (#8 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/DSSfGSAPWhAyXVh55zn8Sg2tHUs8RyT6sa6cs4vnWg7V.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BSECqrMZFLRzooRekjctvrNjrTUkTQv29XYdPNe23X67",
+    "decimals": 6,
+    "name": "Cega Vault (#10 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BSECqrMZFLRzooRekjctvrNjrTUkTQv29XYdPNe23X67.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "DrEwrPuNkvHeivgxGr2R4Sr4rSe5H4SLgfBu5tpAyriq",
+    "decimals": 6,
+    "name": "Cega Vault (#10 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/DrEwrPuNkvHeivgxGr2R4Sr4rSe5H4SLgfBu5tpAyriq.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "AYJyhfkf72kxFxUYWET1MihFThFEs3KVGzUydx3KrmuB",
+    "decimals": 6,
+    "name": "Cega Vault (#11 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/AYJyhfkf72kxFxUYWET1MihFThFEs3KVGzUydx3KrmuB.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "EZgBXVhgVp1WRSHyWDVuzkavYgwPismRnJ3cJAtA8VYi",
+    "decimals": 6,
+    "name": "Cega Vault (#0 Supercharger)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EZgBXVhgVp1WRSHyWDVuzkavYgwPismRnJ3cJAtA8VYi.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BTXBqHSKa8RfTvd58oymF17NqbZDDTBfNDos5juecEvF",
+    "decimals": 6,
+    "name": "Cega Vault (#18 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BTXBqHSKa8RfTvd58oymF17NqbZDDTBfNDos5juecEvF.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5tg2B1JngB8wkxQs2y7Y7vjyWRCQrzoFaYdkSrN9PNoM",
+    "decimals": 6,
+    "name": "Cega Vault (#14 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5tg2B1JngB8wkxQs2y7Y7vjyWRCQrzoFaYdkSrN9PNoM.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "EsviSuqp3oKqDh2Hmfuadi5UoJEVxBDtfAKDxTXTawa",
+    "decimals": 6,
+    "name": "Cega Vault (#20 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EsviSuqp3oKqDh2Hmfuadi5UoJEVxBDtfAKDxTXTawa.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "4mL921iwwPPZPxj5jfcX3hnLWpqZFC38fR8WLEzckHMF",
+    "decimals": 6,
+    "name": "Cega Vault (#12 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/4mL921iwwPPZPxj5jfcX3hnLWpqZFC38fR8WLEzckHMF.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "CzWKYpr8nf26J4WUGCoffo1PAyNgJ7XjqUSHSh36Q7iX",
+    "decimals": 6,
+    "name": "Cega Vault (#20 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CzWKYpr8nf26J4WUGCoffo1PAyNgJ7XjqUSHSh36Q7iX.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GzDrXvEzcG7UoCf9qz2jdTtPZ4ryzcP7Zbr6NPoA7Jeg",
+    "decimals": 6,
+    "name": "Cega Vault (#2 Supercharger)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GzDrXvEzcG7UoCf9qz2jdTtPZ4ryzcP7Zbr6NPoA7Jeg.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "HZJ6yFu6joCTGfmEMSVuyo5ZvYQtrRkznAjqkmnFscFy",
+    "decimals": 6,
+    "name": "Cega Vault (#19 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/HZJ6yFu6joCTGfmEMSVuyo5ZvYQtrRkznAjqkmnFscFy.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "7k4zesgSQzRKKquDtGbbtjvfTj7Dw77W5xeWRKkdpCfY",
+    "decimals": 6,
+    "name": "Cega Vault (#20 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7k4zesgSQzRKKquDtGbbtjvfTj7Dw77W5xeWRKkdpCfY.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "814ztTw7A3q9phsikdWDd9gAYKKv5kSKMm7foUaCNWb6",
+    "decimals": 6,
+    "name": "Cega Vault (#4 Supercharger)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/814ztTw7A3q9phsikdWDd9gAYKKv5kSKMm7foUaCNWb6.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9xKL4KiwMtVvhBa6gvAHuShuter85LAPizoyquyW9jXu",
+    "decimals": 6,
+    "name": "Cega Vault (#10 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9xKL4KiwMtVvhBa6gvAHuShuter85LAPizoyquyW9jXu.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3dQWVAUi1K7BEySXovXRFXTb2EbPrUSsF3sTEZpySMSu",
+    "decimals": 6,
+    "name": "Cega Vault (#7 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3dQWVAUi1K7BEySXovXRFXTb2EbPrUSsF3sTEZpySMSu.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5NxTuZS66oq1FZ9oGJxL9VG5X6wpjX5EM78ATmJmSBNS",
+    "decimals": 6,
+    "name": "Cega Vault (#8 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5NxTuZS66oq1FZ9oGJxL9VG5X6wpjX5EM78ATmJmSBNS.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "B6RSQkkaX98gfUHLVzGHCSQcp29LKkTZSjC5ERDbJkxW",
+    "decimals": 6,
+    "name": "Cega Vault (#9 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/B6RSQkkaX98gfUHLVzGHCSQcp29LKkTZSjC5ERDbJkxW.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "E9KebjepxiW6mZ1KEyLa9YN8r8P8vD9Fxus3hYugPCw3",
+    "decimals": 6,
+    "name": "Cega Vault (#3 Autopilot)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/E9KebjepxiW6mZ1KEyLa9YN8r8P8vD9Fxus3hYugPCw3.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "847u8JHetZi4ysa7rv18AYqWecmEU3MEkz3Zwz7yizpt",
+    "decimals": 6,
+    "name": "Cega Vault (#2 Autopilot)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/847u8JHetZi4ysa7rv18AYqWecmEU3MEkz3Zwz7yizpt.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3XsjuCzeUTfB5yUu3n39FQUXCYzmnLLAvQZkjL4eQbtT",
+    "decimals": 6,
+    "name": "Cega Vault (#1 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3XsjuCzeUTfB5yUu3n39FQUXCYzmnLLAvQZkjL4eQbtT.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "91VNPghjtkxjqkpr9wYjrBiG74pEwPevSLPaJi864MQL",
+    "decimals": 6,
+    "name": "Cega Vault (#6 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/91VNPghjtkxjqkpr9wYjrBiG74pEwPevSLPaJi864MQL.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "8yPzKpzmDbAPGLUvYv2rMooPUfpG3jttbjU75uNDs9o5",
+    "decimals": 6,
+    "name": "Cega Vault (#14 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/8yPzKpzmDbAPGLUvYv2rMooPUfpG3jttbjU75uNDs9o5.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "G1XGFmK87TFvh8mBzsHNrTSJdc3gZd3H1D6U2RhJhZyZ",
+    "decimals": 6,
+    "name": "Cega Vault (#9 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/G1XGFmK87TFvh8mBzsHNrTSJdc3gZd3H1D6U2RhJhZyZ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "AGUQxbwnbfWQumSfie9F3jmXhZn6GGp1pWcHNi1BbVsE",
+    "decimals": 6,
+    "name": "Cega Vault (#1 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/AGUQxbwnbfWQumSfie9F3jmXhZn6GGp1pWcHNi1BbVsE.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5N1jazjc51Ha9nCDXTNqmJj1ZNDbi6vh6Fow5LfBqQqb",
+    "decimals": 6,
+    "name": "Cega Vault (#13 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5N1jazjc51Ha9nCDXTNqmJj1ZNDbi6vh6Fow5LfBqQqb.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "FjyrRmP4Nxr272ncnwZ7x7gwHDTEzHaztEjSZC1HWAB7",
+    "decimals": 6,
+    "name": "Cega Vault (#16 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/FjyrRmP4Nxr272ncnwZ7x7gwHDTEzHaztEjSZC1HWAB7.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "DfCUcchJLs3aCaW6FGv1XR4HPMCMPmY5uqToZiHdE19K",
+    "decimals": 6,
+    "name": "Cega Vault (#16 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/DfCUcchJLs3aCaW6FGv1XR4HPMCMPmY5uqToZiHdE19K.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Gw6mXH4EWSYwgkeGwD5sxsQaFzNnFv6EesZpshMpN9dM",
+    "decimals": 6,
+    "name": "Cega Vault (#2 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Gw6mXH4EWSYwgkeGwD5sxsQaFzNnFv6EesZpshMpN9dM.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BbAwfRtSC7xASwrnKeQaf2ewZaBNPyytp5JkJi23zEvV",
+    "decimals": 6,
+    "name": "Cega Vault (#0 Starboard)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BbAwfRtSC7xASwrnKeQaf2ewZaBNPyytp5JkJi23zEvV.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "DVSos9u3JkErNdMeXt7vzXQGTL27TUDwTSWSNAuz5qLw",
+    "decimals": 6,
+    "name": "Cega Vault (#8 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/DVSos9u3JkErNdMeXt7vzXQGTL27TUDwTSWSNAuz5qLw.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Khy7reu8fCrRKcm6xN7efXhzS36QJBqaMCp5xX11mQa",
+    "decimals": 6,
+    "name": "Cega Vault (#17 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Khy7reu8fCrRKcm6xN7efXhzS36QJBqaMCp5xX11mQa.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "DscRnJRmUNVsQuLJ2ksVgScRPCvxjoqxEsS8uxjbUGSH",
+    "decimals": 6,
+    "name": "Cega Vault (#12 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/DscRnJRmUNVsQuLJ2ksVgScRPCvxjoqxEsS8uxjbUGSH.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Fu1zgvvbWoaRTR1TEbmFXWKz3hJ8NkrURJqGU98T1f5m",
+    "decimals": 6,
+    "name": "Cega Vault (#3 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Fu1zgvvbWoaRTR1TEbmFXWKz3hJ8NkrURJqGU98T1f5m.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5dGJH4VBY4Uqv4QduHRDVtFE31MAZrPZqdDU8P3KKJgR",
+    "decimals": 6,
+    "name": "Cega Vault (#21 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5dGJH4VBY4Uqv4QduHRDVtFE31MAZrPZqdDU8P3KKJgR.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Dg7vqZRghFL4injpuJS8Ha81JusDqJu2HsR6Sjh83ubr",
+    "decimals": 6,
+    "name": "Cega Vault (#13 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Dg7vqZRghFL4injpuJS8Ha81JusDqJu2HsR6Sjh83ubr.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5QWwyNRaWmRWnNfkVxex8aovJjXcLb1E9yud9nU7hShL",
+    "decimals": 6,
+    "name": "Cega Vault (#1 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5QWwyNRaWmRWnNfkVxex8aovJjXcLb1E9yud9nU7hShL.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "FS4uQn7ZwwhLDvmQZCDmvibSqVszn94BsFKJx6BDoX6f",
+    "decimals": 6,
+    "name": "Cega Vault (#3 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/FS4uQn7ZwwhLDvmQZCDmvibSqVszn94BsFKJx6BDoX6f.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "D3sbivtp3eRnwtX7E4reUeC6usQ2tGsTyY6srBqo8WyL",
+    "decimals": 6,
+    "name": "Cega Vault (#5 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/D3sbivtp3eRnwtX7E4reUeC6usQ2tGsTyY6srBqo8WyL.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "CWBtN1xq9ViFdD6v8N8Mz8tDBCkRyvBMjmzPShn4NPW6",
+    "decimals": 6,
+    "name": "Cega Vault (#2 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CWBtN1xq9ViFdD6v8N8Mz8tDBCkRyvBMjmzPShn4NPW6.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3X48Wh4EaRbSyP4GL9GUuy5vznVHtciivMu6edStE3aF",
+    "decimals": 6,
+    "name": "Cega Vault (#16 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3X48Wh4EaRbSyP4GL9GUuy5vznVHtciivMu6edStE3aF.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3MnG67mBFGg9JasnQrfdrYVtjXe964mVoUpRFxcZU7PZ",
+    "decimals": 6,
+    "name": "Cega Vault (#17 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3MnG67mBFGg9JasnQrfdrYVtjXe964mVoUpRFxcZU7PZ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "CGb41oPnDeLkkbR6VAAKLkNHnVbUFe2SEfsy9F95c7D3",
+    "decimals": 6,
+    "name": "Cega Vault (#3 Starboard)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CGb41oPnDeLkkbR6VAAKLkNHnVbUFe2SEfsy9F95c7D3.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Foh6mNMmgkya8cm5vmdkULQCKMEUxHDFsBDv1nULhaZA",
+    "decimals": 6,
+    "name": "Cega Vault (#19 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Foh6mNMmgkya8cm5vmdkULQCKMEUxHDFsBDv1nULhaZA.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2UZRyF8fPmmfLtqqPQhMx8ja3qQFjMudMnPAb2LGFs1A",
+    "decimals": 6,
+    "name": "Cega Vault (#5 Supercharger)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2UZRyF8fPmmfLtqqPQhMx8ja3qQFjMudMnPAb2LGFs1A.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Bi5wCdBiPgkXkgBrifGcahdhwJXEyU4MFizsyCGXafch",
+    "decimals": 6,
+    "name": "Cega Vault (#22 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Bi5wCdBiPgkXkgBrifGcahdhwJXEyU4MFizsyCGXafch.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9dzZEhSEbPXpukcgyCovRGCv1Hw5EsQU4U7wvZNQKNXn",
+    "decimals": 6,
+    "name": "Cega Vault (#16 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9dzZEhSEbPXpukcgyCovRGCv1Hw5EsQU4U7wvZNQKNXn.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5teTUGgMPfnEKpG4r1qad8rdrSsURzFkh6VNKKZ5JLUd",
+    "decimals": 6,
+    "name": "Cega Vault (#0 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5teTUGgMPfnEKpG4r1qad8rdrSsURzFkh6VNKKZ5JLUd.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "91uc51P7Hz7xEw51Dc2RSjN5kDuY194479PrMp8CMGzN",
+    "decimals": 6,
+    "name": "Cega Vault (#23 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/91uc51P7Hz7xEw51Dc2RSjN5kDuY194479PrMp8CMGzN.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2zC5Bq6u6RZ2aTvKmdFvv7D3iQBnzukk8hiFjRhZ4bnU",
+    "decimals": 6,
+    "name": "Cega Vault (#15 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2zC5Bq6u6RZ2aTvKmdFvv7D3iQBnzukk8hiFjRhZ4bnU.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3LPaBHANqjgs6YK5BW9P8GyE118w4xVZP8BMqf5m3Z4E",
+    "decimals": 6,
+    "name": "Cega Vault (#13 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3LPaBHANqjgs6YK5BW9P8GyE118w4xVZP8BMqf5m3Z4E.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "G9LgRuYzxgeck9zBq6x54vMygpu5hAKg6AqPLg8yX6AT",
+    "decimals": 6,
+    "name": "Cega Vault (#4 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/G9LgRuYzxgeck9zBq6x54vMygpu5hAKg6AqPLg8yX6AT.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BcLJGDSMecUH4xyKpFDC2dQz79yrjiTiCBHC8UJaW6ir",
+    "decimals": 6,
+    "name": "Cega Vault (#6 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BcLJGDSMecUH4xyKpFDC2dQz79yrjiTiCBHC8UJaW6ir.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Br5bk5BD6aabmqLW9xCqSuDVMU5JHyZJforxsbPfS5SH",
+    "decimals": 6,
+    "name": "Cega Vault (#22 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Br5bk5BD6aabmqLW9xCqSuDVMU5JHyZJforxsbPfS5SH.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "ADkDYffZEouCMN4mtxCKyDUdoyRADAPrP9PxFSbZnEqJ",
+    "decimals": 6,
+    "name": "Cega Vault (#15 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/ADkDYffZEouCMN4mtxCKyDUdoyRADAPrP9PxFSbZnEqJ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "8rWSrCgCwmtoo338e46Sm5NUjJG4Ak2trbweRwdaVENN",
+    "decimals": 6,
+    "name": "Cega Vault (#0 Autopilot)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/8rWSrCgCwmtoo338e46Sm5NUjJG4Ak2trbweRwdaVENN.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "EayBP38XkT5Wv32HgsEa8GVT3yYS7gQvTKrNYvgtBvRC",
+    "decimals": 6,
+    "name": "Cega Vault (#7 Supercharger)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EayBP38XkT5Wv32HgsEa8GVT3yYS7gQvTKrNYvgtBvRC.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "HXBSRK2cBKZp6E5Tu3HMPXmzbYXgwuSYMAGYAjzKENFm",
+    "decimals": 6,
+    "name": "Cega Vault (#23 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/HXBSRK2cBKZp6E5Tu3HMPXmzbYXgwuSYMAGYAjzKENFm.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "63pRGtye5Phpf4xJ5gLJpwzAMt4txpJSVRSDjdL5myat",
+    "decimals": 6,
+    "name": "Cega Vault (#5 Autopilot)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/63pRGtye5Phpf4xJ5gLJpwzAMt4txpJSVRSDjdL5myat.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "4e5n66nPdmL8U6PCwjYVviMv4ahvQvqnourgPTfZV4d7",
+    "decimals": 6,
+    "name": "Cega Vault (#2 Starboard)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/4e5n66nPdmL8U6PCwjYVviMv4ahvQvqnourgPTfZV4d7.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3QGz3viSh7nuDXxfeWvWkdyZuUCJDAu7tefaLppRLres",
+    "decimals": 6,
+    "name": "Cega Vault (#11 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3QGz3viSh7nuDXxfeWvWkdyZuUCJDAu7tefaLppRLres.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3w7FNXhETF9w3NTzJwuNNMrKxdxiLM4BqJ2ZwRkFMKMU",
+    "decimals": 6,
+    "name": "Cega Vault (#3 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3w7FNXhETF9w3NTzJwuNNMrKxdxiLM4BqJ2ZwRkFMKMU.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9fb816HQepVwBZV5F8fiLCU4VNTD93Na4ipJ3TRdz656",
+    "decimals": 6,
+    "name": "Cega Vault (#7 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9fb816HQepVwBZV5F8fiLCU4VNTD93Na4ipJ3TRdz656.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "7H5q2tQoFnjmcDiJtCLYRX3DmYn5q6TqVYFYx8u3Kgoj",
+    "decimals": 6,
+    "name": "Cega Vault (#21 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7H5q2tQoFnjmcDiJtCLYRX3DmYn5q6TqVYFYx8u3Kgoj.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "8BhxuBqiC8952oUd39SfPrfVRqEWghm2XdB4U9idvee8",
+    "decimals": 6,
+    "name": "Cega Vault (#1 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/8BhxuBqiC8952oUd39SfPrfVRqEWghm2XdB4U9idvee8.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "7Pr5J3kQ8JCGAFg7R5k44Rrse62RmnzT1AHi5AfMLauM",
+    "decimals": 6,
+    "name": "Cega Vault (#0 Solana Summer)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7Pr5J3kQ8JCGAFg7R5k44Rrse62RmnzT1AHi5AfMLauM.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2jrpr61TVGiK1voH2pzXo8YC2A4jMWTRf3RqpfvcMY7F",
+    "decimals": 6,
+    "name": "Cega Vault (#14 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2jrpr61TVGiK1voH2pzXo8YC2A4jMWTRf3RqpfvcMY7F.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "EkDmQrcVrU5jisLFaGbCKBVFa1hT8Lz67cDGdbZpf2FC",
+    "decimals": 6,
+    "name": "Cega Vault (#5 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EkDmQrcVrU5jisLFaGbCKBVFa1hT8Lz67cDGdbZpf2FC.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2A3B69mFgkbfSWjJ9oCsf3R66zBTzufQTqZgPZ5A1RMN",
+    "decimals": 6,
+    "name": "Cega Vault (#5 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2A3B69mFgkbfSWjJ9oCsf3R66zBTzufQTqZgPZ5A1RMN.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "HWmPQ2ywkotnTRSbFBptk4kVpwxV49sWXvELL9ZA1eDF",
+    "decimals": 6,
+    "name": "Cega Vault (#21 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/HWmPQ2ywkotnTRSbFBptk4kVpwxV49sWXvELL9ZA1eDF.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GY9YFG7rntsALPR43g2jH1q7sXAwbBe3fSfcNzTCrAUd",
+    "decimals": 6,
+    "name": "Cega Vault (#4 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GY9YFG7rntsALPR43g2jH1q7sXAwbBe3fSfcNzTCrAUd.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "7d8c1xq8rqPvpvsaHCzbV7ipJ8Rft7v1VcKu8BfidiTS",
+    "decimals": 6,
+    "name": "Cega Vault (#13 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7d8c1xq8rqPvpvsaHCzbV7ipJ8Rft7v1VcKu8BfidiTS.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2U8i4ychzHZ5PqPaHbmXSzVJDHAfSmm5zQjPQcHWiqKF",
+    "decimals": 6,
+    "name": "Cega Vault (#9 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2U8i4ychzHZ5PqPaHbmXSzVJDHAfSmm5zQjPQcHWiqKF.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3wAT1khVnRk7Jb6ATzCR9Q2vkJS51C7SyD14jVWQUvQb",
+    "decimals": 6,
+    "name": "Cega Vault (#12 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3wAT1khVnRk7Jb6ATzCR9Q2vkJS51C7SyD14jVWQUvQb.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3d2U4LuwCnoBhUTFQzcNbotJHJRFaJCPaDmZwukztbKW",
+    "decimals": 6,
+    "name": "Cega Vault (#1 Starboard)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3d2U4LuwCnoBhUTFQzcNbotJHJRFaJCPaDmZwukztbKW.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "7T3S1aRU1uMwsDCYt91beUt9H4GHmVXfQyppvvyZ5TJ",
+    "decimals": 6,
+    "name": "Cega Vault (#1 Supercharger)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7T3S1aRU1uMwsDCYt91beUt9H4GHmVXfQyppvvyZ5TJ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "7ZxoMoWKuHNC77YamUQk8Uf7KszpiVAK6Jn47zfg4b3t",
+    "decimals": 6,
+    "name": "Cega Vault (#10 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7ZxoMoWKuHNC77YamUQk8Uf7KszpiVAK6Jn47zfg4b3t.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "4aoiTnXr8tPavEZLwWTxs7SXga7TkJGZsd8b6o2u3ups",
+    "decimals": 6,
+    "name": "Cega Vault (#5 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/4aoiTnXr8tPavEZLwWTxs7SXga7TkJGZsd8b6o2u3ups.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "8TZBNovTrvYRLtLdLBP2GZTdiTt5GdigjDRHxVhp53Do",
+    "decimals": 6,
+    "name": "Cega Vault (#20 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/8TZBNovTrvYRLtLdLBP2GZTdiTt5GdigjDRHxVhp53Do.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2XCVDyeSiWRNX2TZbxvqMxfXj2FYvAPTUMph7nj6yZta",
+    "decimals": 6,
+    "name": "Cega Vault (#6 Autopilot)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2XCVDyeSiWRNX2TZbxvqMxfXj2FYvAPTUMph7nj6yZta.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "4WtQsRwNfqh121YmqDSucoLij86NC4WGf8BxgLutZt7P",
+    "decimals": 6,
+    "name": "Cega Vault (#15 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/4WtQsRwNfqh121YmqDSucoLij86NC4WGf8BxgLutZt7P.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "JARjE1Xy1etLFVDAVQdTUw6Hy1rx18TycWuH4iJMM8Gf",
+    "decimals": 6,
+    "name": "Cega Vault (#0 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/JARjE1Xy1etLFVDAVQdTUw6Hy1rx18TycWuH4iJMM8Gf.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "7WPZStcS8dXtCuVGY7pjXu2suSk7eCwNAhzGByujP3hY",
+    "decimals": 6,
+    "name": "Cega Vault (#21 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7WPZStcS8dXtCuVGY7pjXu2suSk7eCwNAhzGByujP3hY.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "C5VoxJm6iTbBSpFCK3rsW1y9AZLAhjsdUCFkZQv4jLYK",
+    "decimals": 6,
+    "name": "Cega Vault (#8 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/C5VoxJm6iTbBSpFCK3rsW1y9AZLAhjsdUCFkZQv4jLYK.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5jHjMdNQVSNBQ5uu7sDaxAR2PUZj65GTpJSxaEnR5ZyS",
+    "decimals": 6,
+    "name": "Cega Vault (#18 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5jHjMdNQVSNBQ5uu7sDaxAR2PUZj65GTpJSxaEnR5ZyS.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2tC26UozL4AGD5WHFuHx1TSZxUtMaEWLr3KrY2WsNN15",
+    "decimals": 6,
+    "name": "Cega Vault (#11 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2tC26UozL4AGD5WHFuHx1TSZxUtMaEWLr3KrY2WsNN15.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Fh5rjKU7Yky31QPaJFwNUJ15RJ7qNYXb6QZrwAwtBS9e",
+    "decimals": 6,
+    "name": "Cega Vault (#3 Supercharger)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Fh5rjKU7Yky31QPaJFwNUJ15RJ7qNYXb6QZrwAwtBS9e.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3bG5oKFU5qm2ifZUeLcSauQBTaxSNJHASiRZBa4FhneB",
+    "decimals": 6,
+    "name": "Cega Vault (#4 Autopilot)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3bG5oKFU5qm2ifZUeLcSauQBTaxSNJHASiRZBa4FhneB.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3nAiNTNpFoYxkVD4RNM1iPZ5g75n3Umzbqk5B6bT6wHd",
+    "decimals": 6,
+    "name": "Cega Vault (#1 Solana Summer)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3nAiNTNpFoYxkVD4RNM1iPZ5g75n3Umzbqk5B6bT6wHd.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "J4Yb2JMg28Dg4ySkeTqsPEM5fx5u8r1wXTvyTxWSghTA",
+    "decimals": 6,
+    "name": "Cega Vault (#9 Go Fast)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/J4Yb2JMg28Dg4ySkeTqsPEM5fx5u8r1wXTvyTxWSghTA.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GAqoakw93E5rJ7iBiZSsRr8HfA9Tg9v5MpWE3rmFc88Y",
+    "decimals": 6,
+    "name": "Cega Vault (#11 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GAqoakw93E5rJ7iBiZSsRr8HfA9Tg9v5MpWE3rmFc88Y.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "6vBu3U9ggV8R4ykGy83zGwe3DT5R1Cq65oppW3vDBtKi",
+    "decimals": 6,
+    "name": "Cega Vault (#6 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/6vBu3U9ggV8R4ykGy83zGwe3DT5R1Cq65oppW3vDBtKi.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BokKmnvHCistjRhzh7NfHQ4bNok91sBD53MdVATFPkbu",
+    "decimals": 6,
+    "name": "Cega Vault (#17 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BokKmnvHCistjRhzh7NfHQ4bNok91sBD53MdVATFPkbu.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "H6QvAA8CF6sPXNX4skiYidUsZLnvtvUx1zSDSEXjG63J",
+    "decimals": 6,
+    "name": "Cega Vault (#17 Insanic)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/H6QvAA8CF6sPXNX4skiYidUsZLnvtvUx1zSDSEXjG63J.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "76EsTUc4LTTPu3DEkccATLUGzTXgWBQV8gWdY4SvS4yW",
+    "decimals": 6,
+    "name": "Cega Vault (#6 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/76EsTUc4LTTPu3DEkccATLUGzTXgWBQV8gWdY4SvS4yW.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BAGo36peGpZdMgjCiS7p4WD25E6bkdpAvDT1Z4gFAmm2",
+    "decimals": 6,
+    "name": "Cega Vault (#2 Genesis Basket)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BAGo36peGpZdMgjCiS7p4WD25E6bkdpAvDT1Z4gFAmm2.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "8bmjH1Sc76aJv8BMkkTCkLdT6tizBfzRW7cPwbBe4MAm",
+    "decimals": 6,
+    "name": "Cega Vault (#7 Autopilot)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/8bmjH1Sc76aJv8BMkkTCkLdT6tizBfzRW7cPwbBe4MAm.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "H8vbaGQfUBQxnh8WzKVS7QM2kfh7BHiRAR8EtwcHKYW",
+    "decimals": 6,
+    "name": "Cega Vault (#22 Cruise Control)",
+    "symbol": "lpCega",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/H8vbaGQfUBQxnh8WzKVS7QM2kfh7BHiRAR8EtwcHKYW.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5rMWS2wTiW9dcv4WpXt3jNfn6uHgGSELfsa2ftkQA7Zw",
+    "decimals": 6,
+    "name": "Nazare USDC/USDT",
+    "symbol": "nUSDC/USDT",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5rMWS2wTiW9dcv4WpXt3jNfn6uHgGSELfsa2ftkQA7Zw.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Grwu1bWQ6HNqbY225EuYf3C4kL3835WQPgnff2a89vPw",
+    "decimals": 6,
+    "name": "Nazare USH / USDC",
+    "symbol": "nUSH/USDC",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Grwu1bWQ6HNqbY225EuYf3C4kL3835WQPgnff2a89vPw.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9z2a5zNvipEQxjyFfZf3gV4nw9NCr73FdRs1iq3VjTXc",
+    "decimals": 6,
+    "name": "Nazare UXD / USDC",
+    "symbol": "nUXD/USDC",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9z2a5zNvipEQxjyFfZf3gV4nw9NCr73FdRs1iq3VjTXc.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Hjr9QG1mNUJfa3H4an1NH1xni8nDeBreoH83oMzrzwem",
+    "symbol": "vCYPH",
+    "name": "Cypher Voucher",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Hjr9QG1mNUJfa3H4an1NH1xni8nDeBreoH83oMzrzwem.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9Fzv4s5t2bNwwJoeeywMwypop3JegsuDb1eDbMnPr4TX",
+    "symbol": "sFLP.1",
+    "name": "Flash LP 1",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9Fzv4s5t2bNwwJoeeywMwypop3JegsuDb1eDbMnPr4TX.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "CrdMPbjooMmz6RoVgUnczWoeZka2QF14pikcCTpzRMxz",
+    "symbol": "sFLP.2",
+    "name": "Flash LP 2",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CrdMPbjooMmz6RoVgUnczWoeZka2QF14pikcCTpzRMxz.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "6afu2XRPMg8JAhzBsJ9DXsQRCFhkzbC4UaFMZepm6AHb",
+    "symbol": "sFLP.3",
+    "name": "Flash LP 3",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/6afu2XRPMg8JAhzBsJ9DXsQRCFhkzbC4UaFMZepm6AHb.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GnxdTsSQNQ3FF72nTyWo4SUt59Tt1MqDkRRfoPtKjMvJ",
+    "symbol": "sFLP.4",
+    "name": "Flash LP 4",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GnxdTsSQNQ3FF72nTyWo4SUt59Tt1MqDkRRfoPtKjMvJ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "EsdayVbDQYQdy54TQh5iASMTkCzmhxsx6MpCvyrtYaUZ",
+    "symbol": "sFLP.5",
+    "name": "Flash LP 5",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EsdayVbDQYQdy54TQh5iASMTkCzmhxsx6MpCvyrtYaUZ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9Fzv4s5t2bNwwJoeeywMwypop3JegsuDb1eDbMnPr4TX",
+    "symbol": "sFLP.1",
+    "name": "Flash LP 1",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9Fzv4s5t2bNwwJoeeywMwypop3JegsuDb1eDbMnPr4TX.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "CrdMPbjooMmz6RoVgUnczWoeZka2QF14pikcCTpzRMxz",
+    "symbol": "sFLP.2",
+    "name": "Flash LP 2",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CrdMPbjooMmz6RoVgUnczWoeZka2QF14pikcCTpzRMxz.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "6afu2XRPMg8JAhzBsJ9DXsQRCFhkzbC4UaFMZepm6AHb",
+    "symbol": "sFLP.3",
+    "name": "Flash LP 3",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/6afu2XRPMg8JAhzBsJ9DXsQRCFhkzbC4UaFMZepm6AHb.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GnxdTsSQNQ3FF72nTyWo4SUt59Tt1MqDkRRfoPtKjMvJ",
+    "symbol": "sFLP.4",
+    "name": "Flash LP 4",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GnxdTsSQNQ3FF72nTyWo4SUt59Tt1MqDkRRfoPtKjMvJ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "EsdayVbDQYQdy54TQh5iASMTkCzmhxsx6MpCvyrtYaUZ",
+    "symbol": "sFLP.5",
+    "name": "Flash LP 5",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EsdayVbDQYQdy54TQh5iASMTkCzmhxsx6MpCvyrtYaUZ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "NUZ3FDWTtN5SP72BsefbsqpnbAY5oe21LE8bCSkqsEK",
+    "symbol": "FLP.1",
+    "name": "Flash LP 1",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9Fzv4s5t2bNwwJoeeywMwypop3JegsuDb1eDbMnPr4TX.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "AbVzeRUss8QJYzv2WDizDJ2RtsD1jkVyRjNdAzX94JhG",
+    "symbol": "FLP.2",
+    "name": "Flash LP 2",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CrdMPbjooMmz6RoVgUnczWoeZka2QF14pikcCTpzRMxz.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "4PZTRNrHnxWBqLRvX5nuE6m1cNR8RqB4kWvVYjDkMd2H",
+    "symbol": "FLP.3",
+    "name": "Flash LP 3",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/6afu2XRPMg8JAhzBsJ9DXsQRCFhkzbC4UaFMZepm6AHb.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "EngqvevoQ8yaNdtxY7sSh5J7NF74k3cDKi9v9pHi5H3B",
+    "symbol": "FLP.4",
+    "name": "Flash LP 4",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GnxdTsSQNQ3FF72nTyWo4SUt59Tt1MqDkRRfoPtKjMvJ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Ab6K8anKSwAz8VXJPVvAVjPQMJNoVhwzfF7FtAB5PNW9",
+    "symbol": "FLP.5",
+    "name": "Flash LP 5",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EsdayVbDQYQdy54TQh5iASMTkCzmhxsx6MpCvyrtYaUZ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "EURPnveVbdoJkGs7qYqsEWBcCH4ZHChKEBbDGaQx4rUK",
+    "symbol": "fEUR",
+    "name": "FlashTrade Euro Spot",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EURPnveVbdoJkGs7qYqsEWBcCH4ZHChKEBbDGaQx4rUK.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "XAGLictSZUYkCHgBWoPitFCDJECNZx1DVTzV74iM9dP",
+    "symbol": "fXAG",
+    "name": "FlashTrade Silver Spot",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/XAGLictSZUYkCHgBWoPitFCDJECNZx1DVTzV74iM9dP.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GBPvXsT3uQVBmipvhhU5NW1JfhMJ2maYqLAbPzUq5NnY",
+    "symbol": "fGBP",
+    "name": "FlashTrade Pound Sterling Spot",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GBPvXsT3uQVBmipvhhU5NW1JfhMJ2maYqLAbPzUq5NnY.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "AUDdbsJZpT1pFErezhe9pvcf97XnvD8oo8etZbeFbBX",
+    "symbol": "fAUD",
+    "name": "FlashTrade Australian Dollar Spot",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/AUDdbsJZpT1pFErezhe9pvcf97XnvD8oo8etZbeFbBX.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "XAUfcdPHmEBnj78YnZ5YxqdwBmgbwoY5VfrRwETnKuQ",
+    "symbol": "fXAU",
+    "name": "FlashTrade Gold Spot",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/XAUfcdPHmEBnj78YnZ5YxqdwBmgbwoY5VfrRwETnKuQ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "CvsZ4b4aHAtgwYjZoNKxhURfHWdf5ft7QU5cJtDj5xfc",
+    "symbol": "Graff",
+    "name": "Graffiti Kods",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CvsZ4b4aHAtgwYjZoNKxhURfHWdf5ft7QU5cJtDj5xfc.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "6hSEUfNCKfxFvQfKS6fp2vh9FvQ3iresbQKSQuVyNtLq",
+    "symbol": "PM",
+    "name": "Purple Mountains",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/6hSEUfNCKfxFvQfKS6fp2vh9FvQ3iresbQKSQuVyNtLq.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "AiQdRXXVbMJipjvf1CxiRyZietNC91iDGmAzvQ734WVj",
+    "symbol": "PUPPY",
+    "name": "PUPPYLANA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/AiQdRXXVbMJipjvf1CxiRyZietNC91iDGmAzvQ734WVj.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "4eRhZJB3v4nxbarFRAFQ2UtyZnzyQQaQKpmf7wKjepKM",
+    "symbol": "TTSD",
+    "name": "tolythestupiddragon",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/4eRhZJB3v4nxbarFRAFQ2UtyZnzyQQaQKpmf7wKjepKM.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "6kY2mvaSocxRkny3jrgfMaNUorKT7zZ7nWLn74wCYqrN",
+    "symbol": "HNT",
+    "name": "Helium",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/6kY2mvaSocxRkny3jrgfMaNUorKT7zZ7nWLn74wCYqrN.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3K9HBbAviWBx7CQZ3dTWxfE5XzU8bYGm9tUhjN2t7QoQ",
+    "symbol": "PEAH",
+    "name": "Peah",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3K9HBbAviWBx7CQZ3dTWxfE5XzU8bYGm9tUhjN2t7QoQ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9W7GnM6a9YvA29FDjLogCKjuLx47RPpDrfcw4uv6dYGX",
+    "symbol": "DOLPH",
+    "name": "Dolphin Inu",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9W7GnM6a9YvA29FDjLogCKjuLx47RPpDrfcw4uv6dYGX.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GKUFisphBxStWxJLCyefVnc81fRZgZ4fR2swXCwQpopg",
+    "symbol": "NEU",
+    "name": "Neutra Finance",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GKUFisphBxStWxJLCyefVnc81fRZgZ4fR2swXCwQpopg.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "4jWJJTFbxMQbhqc1ZJsZKBqR5GSYceSSLWPec7jtw6fM",
+    "symbol": "DONTSELL",
+    "name": "DONTSELL",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/4jWJJTFbxMQbhqc1ZJsZKBqR5GSYceSSLWPec7jtw6fM.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GpVcEohxFqDx7aBNVUjgtvkXmwxD5oza3j4Hq44GNbqz",
+    "symbol": "LUCKY",
+    "name": "Lucky Charms",
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GpVcEohxFqDx7aBNVUjgtvkXmwxD5oza3j4Hq44GNbqz.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "43eswhJAaHds11E9irx8vhHfWXf5pg1bCk9HGqWcTCai",
+    "symbol": "ALF",
+    "name": "Alf",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/43eswhJAaHds11E9irx8vhHfWXf5pg1bCk9HGqWcTCai.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "8BMzMi2XxZn9afRaMx5Z6fauk9foHXqV5cLTCYWRcVje",
+    "decimals": 9,
+    "name": "Staika",
+    "symbol": "STIK",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/8BMzMi2XxZn9afRaMx5Z6fauk9foHXqV5cLTCYWRcVje.webp",
+    "extensions": { "coingeckoId": "staika" }
+  },
+  {
+    "chainId": 101,
+    "address": "GZd1SLKsLpNC2eX8bFvsR9hhHmFZN2uV8GE7dHxsD2bd",
+    "symbol": "IMCO",
+    "name": "Imperial Crown",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GZd1SLKsLpNC2eX8bFvsR9hhHmFZN2uV8GE7dHxsD2bd.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BnB7BZ3QLaF576uPgsy4RVUF4uopcc3kdwkGugpw28w7",
+    "symbol": "HHH",
+    "name": "HHH v8",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BnB7BZ3QLaF576uPgsy4RVUF4uopcc3kdwkGugpw28w7.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "iJF1cTU4YFzNhGSBAwDnQLiLN6etSJf3dKLdqk4rewD",
+    "symbol": "I-JFI-Q3",
+    "name": "I-JFI-Q3",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/iJF1cTU4YFzNhGSBAwDnQLiLN6etSJf3dKLdqk4rewD.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "DF75DjaQ1nJn2GkSVYq5coC6wTqcRsyv4Sjkk2rrMuPZ",
+    "symbol": "MAASROT",
+    "name": "Maasrot",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/DF75DjaQ1nJn2GkSVYq5coC6wTqcRsyv4Sjkk2rrMuPZ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3JoNYDWQVBCu8jexSWBfkSvQ7EgqsjotJCkZq2eurff6",
+    "symbol": "NotWhirlpo",
+    "name": "Brainz",
+    "decimals": 10,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3JoNYDWQVBCu8jexSWBfkSvQ7EgqsjotJCkZq2eurff6.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "58fPBSQdynbfwgsus8FUpsiXSRtBm6L5VUbuFuAxSAjw",
+    "symbol": "eKWAN",
+    "name": "eKWAN",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/58fPBSQdynbfwgsus8FUpsiXSRtBm6L5VUbuFuAxSAjw.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Gq6QdwRBU4Tkjsn3Be76CmB6DGoJSibWmfQDPcpEGunt",
+    "symbol": "BOZO",
+    "name": "Bozo",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Gq6QdwRBU4Tkjsn3Be76CmB6DGoJSibWmfQDPcpEGunt.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "588rSHjKuPsGBdQxaS7NUE2ksz77CBnDY2LNH13Xxxhk",
+    "symbol": "ARCH",
+    "name": "Archon protocol",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/588rSHjKuPsGBdQxaS7NUE2ksz77CBnDY2LNH13Xxxhk.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GVAzmxaZyjonzDveBivWMQ6ebX6LwXypw76xSmRMYbUc",
+    "symbol": "JPWL",
+    "name": "JPowell",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GVAzmxaZyjonzDveBivWMQ6ebX6LwXypw76xSmRMYbUc.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9hjbnN7sA2yurQBcLi3iUpdt3sNYeBrkC4gqU5jirmHo",
+    "symbol": "ETRN",
+    "name": "Eternal Finance",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9hjbnN7sA2yurQBcLi3iUpdt3sNYeBrkC4gqU5jirmHo.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "ETNCHNQ3AJBb2EgmDiaBgf6kknjRCMp1n1U3jiDGK6He",
+    "symbol": "SLEEK",
+    "name": "SLEEK",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/ETNCHNQ3AJBb2EgmDiaBgf6kknjRCMp1n1U3jiDGK6He.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "H3yfPFuAguX2x4m72KbSUBd1FMxBRG8Hvi5jgm1fzqs1",
+    "symbol": "QUE",
+    "name": "QUE",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/H3yfPFuAguX2x4m72KbSUBd1FMxBRG8Hvi5jgm1fzqs1.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "CKUUGK5dxNTLy4kX4PSTnHTDYzMQFmkH3K2CCkCZPqKa",
+    "symbol": "KDA",
+    "name": "Karda",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CKUUGK5dxNTLy4kX4PSTnHTDYzMQFmkH3K2CCkCZPqKa.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "8enwNse3vP3wqR81UqUpPayaugAhmKGakzf2vhQTsyjg",
+    "symbol": "KAT",
+    "name": "Kathy",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/8enwNse3vP3wqR81UqUpPayaugAhmKGakzf2vhQTsyjg.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3ziWgirNnk8v8gGqXEFJi2cHtTNoCy3oiLXBQj5PAQXL",
+    "symbol": "GM",
+    "name": "Green Mountain",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3ziWgirNnk8v8gGqXEFJi2cHtTNoCy3oiLXBQj5PAQXL.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GTWVVxwGSSHfpxgcPLMa7Ka87yeXBZDoe8NpNbNiP4eZ",
+    "symbol": "FTT",
+    "name": "FTX Token (Portalbridge)",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GTWVVxwGSSHfpxgcPLMa7Ka87yeXBZDoe8NpNbNiP4eZ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "AdrE89Fya8VqNEKhopizBZK9W3zRfMsMabqG7pRCTi5G",
+    "symbol": "REEE",
+    "name": "Reee",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/AdrE89Fya8VqNEKhopizBZK9W3zRfMsMabqG7pRCTi5G.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "C5F7JsxYvgfKjS11ScjgG3xjTViVFv11krq9Atk8CwGi",
+    "symbol": "BDX",
+    "name": "Beldex.ai",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/C5F7JsxYvgfKjS11ScjgG3xjTViVFv11krq9Atk8CwGi.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3HZ2hkVQwWHD6dk8jbnriVyuJUytW1EE6WBWzRYoDv9Q",
+    "symbol": "ANGRY",
+    "name": "Angry Holders",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3HZ2hkVQwWHD6dk8jbnriVyuJUytW1EE6WBWzRYoDv9Q.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "AyVYnyMbeuA5NFEm2jd6gRNc9nPRJSFLyTDVcA9ChFn8",
+    "symbol": "DPEPE",
+    "name": "DrPepe",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/AyVYnyMbeuA5NFEm2jd6gRNc9nPRJSFLyTDVcA9ChFn8.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "iRAY4CFm6KmSsMNsGtKbm4YLm9NLLPxbUXL7pFAp726",
+    "symbol": "I-RAY-Q3",
+    "name": "I-RAY-Q3",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/iRAY4CFm6KmSsMNsGtKbm4YLm9NLLPxbUXL7pFAp726.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "ETsA9km6SDf5dno7RqLwqg8bUYUb3MYNyrphhJiQbHQH",
+    "symbol": "STBL",
+    "name": "STABLE",
+    "decimals": 7,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/ETsA9km6SDf5dno7RqLwqg8bUYUb3MYNyrphhJiQbHQH.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BFf1Xro5pRbNbJWVpio3zgPLpAMoV3XnP8D6dYkPeBUN",
+    "symbol": "VITA",
+    "name": "Vita",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BFf1Xro5pRbNbJWVpio3zgPLpAMoV3XnP8D6dYkPeBUN.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "ADiGqh8ecqAtku2ZvwTGB1XcR1mFhdysMBcmiLL6vPg1",
+    "symbol": "CMST",
+    "name": "Composite",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/ADiGqh8ecqAtku2ZvwTGB1XcR1mFhdysMBcmiLL6vPg1.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "ButtzRVXEyHU8oxQmrUEpcTyE7qR9zGtyr43AVkYnuKK",
+    "symbol": "BUTTZ",
+    "name": "BUTTZ",
+    "decimals": 5,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/ButtzRVXEyHU8oxQmrUEpcTyE7qR9zGtyr43AVkYnuKK.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "jSoLTVaeWSStWnNiocXyeVsHMWVfLtFzrYG9wZBenGk",
+    "symbol": "J-SOL",
+    "name": "J-SOL",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/jSoLTVaeWSStWnNiocXyeVsHMWVfLtFzrYG9wZBenGk.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9dVB8GsYJ7fKBF7fLwYX7JVKzxRWF98FwmDNGD2tWbaa",
+    "symbol": "WEED",
+    "name": "WEED",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9dVB8GsYJ7fKBF7fLwYX7JVKzxRWF98FwmDNGD2tWbaa.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3wZETGgGbR8mJPPmJtzkTubRBT7N7Ps64D939fZhQoA8",
+    "symbol": "DUSDQ",
+    "name": "Droid-Fi USDC Quarterly",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3wZETGgGbR8mJPPmJtzkTubRBT7N7Ps64D939fZhQoA8.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Cbg2M8RyUWpeTLjzz67GXePDJFavx9rhwTtAWRD3rBac",
+    "symbol": "SCN",
+    "name": "Socean",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Cbg2M8RyUWpeTLjzz67GXePDJFavx9rhwTtAWRD3rBac.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "CfwzkucbHaMvB9kv7xW6UyC4c84irVsVaHwfnCXbpaqV",
+    "symbol": "XCH",
+    "name": "Chia (wrapped)",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CfwzkucbHaMvB9kv7xW6UyC4c84irVsVaHwfnCXbpaqV.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "HwkXMpuCsxkaRxmoq9sDhjPwZ4SurLt9jnGgt4jvjgTq",
+    "symbol": "SLST",
+    "name": "Solset Finance",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/HwkXMpuCsxkaRxmoq9sDhjPwZ4SurLt9jnGgt4jvjgTq.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BX7Lj1UyN5w9hg2Dg176YSeRZsEQYFXEd7EEcXA3Dz6K",
+    "symbol": "LIZZY",
+    "name": "Lizzy",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BX7Lj1UyN5w9hg2Dg176YSeRZsEQYFXEd7EEcXA3Dz6K.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BYj4B3kUPdHjQNM2tLW5iwq2QcVQkvTmmJ8qA3mmiSM2",
+    "symbol": "TERUMOT",
+    "name": "Terumot",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BYj4B3kUPdHjQNM2tLW5iwq2QcVQkvTmmJ8qA3mmiSM2.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "AvPuZwY4hyzXUnXUBwcGeymT9yDPhPi7dzK1oxFrZTm1",
+    "symbol": "MLAW",
+    "name": "Martial Law",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/AvPuZwY4hyzXUnXUBwcGeymT9yDPhPi7dzK1oxFrZTm1.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2hH3ey8U94cvcxcaxZP3GDVNPFfgavn3K2mYvkUDV3Sm",
+    "symbol": "POO",
+    "name": "POO SOLANA",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2hH3ey8U94cvcxcaxZP3GDVNPFfgavn3K2mYvkUDV3Sm.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "9MDpyAPEUSWCx5JrPvRRmnwSVdKtNBfXMnnE7L4AE7QV",
+    "symbol": "SOGAT",
+    "name": "SOGAT",
+    "decimals": 3,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9MDpyAPEUSWCx5JrPvRRmnwSVdKtNBfXMnnE7L4AE7QV.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "8fFgmnvcHHehg6C5ysMm79mHpfpmwoZeV9it6wKhCEeS",
+    "symbol": "GRAMZ",
+    "name": "GRAMZ",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/8fFgmnvcHHehg6C5ysMm79mHpfpmwoZeV9it6wKhCEeS.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "FhhWcMv7NeG2xffDFex7xJLaYUzkeSkdcvXm3KpXGWm4",
+    "symbol": "DSOLQ",
+    "name": "Droid-Fi SOL Quarterly",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/FhhWcMv7NeG2xffDFex7xJLaYUzkeSkdcvXm3KpXGWm4.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "8nx5mWfiBDLdX1DKXYDK4KXMfkgGVUbLMFppHt7Pummq",
+    "symbol": "MYST",
+    "name": "Myst Protocol",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/8nx5mWfiBDLdX1DKXYDK4KXMfkgGVUbLMFppHt7Pummq.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "CZx8bNjYjCFCKUAZMyfoxk7qt6YFaeaRgZud1nvZSKJz",
+    "symbol": "DONTBUY",
+    "name": "DONTBUY",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CZx8bNjYjCFCKUAZMyfoxk7qt6YFaeaRgZud1nvZSKJz.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "fBeugBME1ZRTgzMv5NocTWmrouWnFcMFT7FSPMFTJrL",
+    "symbol": "TTT",
+    "name": "TTT v20",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/fBeugBME1ZRTgzMv5NocTWmrouWnFcMFT7FSPMFTJrL.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "6zMn81k4JXdy1UKG6BAJ9P65nK1n3EN45HMghEJog2HP",
+    "symbol": "88",
+    "name": "88",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/6zMn81k4JXdy1UKG6BAJ9P65nK1n3EN45HMghEJog2HP.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "Hm7KA6PUKkB1nRzgnrpLh5gx4Lz8ztiFdxXhaJg9vfcm",
+    "symbol": "DDD",
+    "name": "DDD Token",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/Hm7KA6PUKkB1nRzgnrpLh5gx4Lz8ztiFdxXhaJg9vfcm.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "WKNDwkcUfcohsqmiS1vYNrSCNDSJFaHWMxRnCmxCxFz",
+    "symbol": "WKND",
+    "name": "Weekend Pump",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/WKNDwkcUfcohsqmiS1vYNrSCNDSJFaHWMxRnCmxCxFz.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "HXGAZLSLLwSQnDJWirDd1DxwoME8qG4KisPzuE4Kq2Dn",
+    "symbol": "HARSH",
+    "name": "Noise",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/HXGAZLSLLwSQnDJWirDd1DxwoME8qG4KisPzuE4Kq2Dn.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "LUSHqQZX8DxXjGUrEp9Nh3U6ym7U45srgqrQHrE4NX2",
+    "symbol": "LUSH",
+    "name": "Lushcoin",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/LUSHqQZX8DxXjGUrEp9Nh3U6ym7U45srgqrQHrE4NX2.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "4LoPysv3kmVcKpJzHT6fzuUQMpynyF3119nFjs4uySkF",
+    "symbol": "PCM",
+    "name": "Poor Chipmunk",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/4LoPysv3kmVcKpJzHT6fzuUQMpynyF3119nFjs4uySkF.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "GuGXEGMjkoCcspAjwU6pFhQhgzUW8Q3tVgqVUWPNMaJt",
+    "symbol": "NOX",
+    "name": "AVATARA NOX",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GuGXEGMjkoCcspAjwU6pFhQhgzUW8Q3tVgqVUWPNMaJt.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BAwHsF9Z4hmTvvWrzguVWhD8EiK35z1XRjYwFUhSJCyJ",
+    "symbol": "UNO",
+    "name": "Uno coin",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BAwHsF9Z4hmTvvWrzguVWhD8EiK35z1XRjYwFUhSJCyJ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "5QxLefb2Tnm9AkNapNJMi68jbjELvQbovmcUPL2PpZFM",
+    "symbol": "BBB",
+    "name": "BBB Token",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/5QxLefb2Tnm9AkNapNJMi68jbjELvQbovmcUPL2PpZFM.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "HugoXPiv4eZpTChQwYxmtxwovS2bjJogAjzShsKbFKxB",
+    "symbol": "PARROT",
+    "name": "Hugo the Parrot",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/HugoXPiv4eZpTChQwYxmtxwovS2bjJogAjzShsKbFKxB.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "yNFqW9wJ9biBsF2ZscMxNBNULkBSyHaU2wv1TJCwbxQ",
+    "symbol": "SPRING",
+    "name": "Spring",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/yNFqW9wJ9biBsF2ZscMxNBNULkBSyHaU2wv1TJCwbxQ.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "EV2M5ArcrGkMddvPj3Fu7MBKuEo5MvZUkZKkPzXLTa2u",
+    "symbol": "PIGSB",
+    "name": "PIGSB",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EV2M5ArcrGkMddvPj3Fu7MBKuEo5MvZUkZKkPzXLTa2u.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2DFQxNymUJgpdr5b8T9s8huXz4aCw1me8vqS41fZSEkc",
+    "symbol": "TST",
+    "name": "Testyy",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2DFQxNymUJgpdr5b8T9s8huXz4aCw1me8vqS41fZSEkc.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "CAfU6e9kB2DBAL1zjDUY5koGSNJWYeVVyFXBcMXncCCz",
+    "symbol": "$bruh",
+    "name": "bruh",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CAfU6e9kB2DBAL1zjDUY5koGSNJWYeVVyFXBcMXncCCz.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "7pEDu5bXYBdgoNh7XwLWxEap4m4XwxCAzVZe6Xi8CRDY",
+    "symbol": "PROXY",
+    "name": "Proxy swap",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/7pEDu5bXYBdgoNh7XwLWxEap4m4XwxCAzVZe6Xi8CRDY.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "4JzDCxfqRD7mbQVZTPw1x14h1uaySjaPrKBEtWhdTwiL",
+    "symbol": "Skita",
+    "name": "Solana Akita",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/4JzDCxfqRD7mbQVZTPw1x14h1uaySjaPrKBEtWhdTwiL.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "AJX6i1cFVsBPnwFhZbqzzo3o2kuZmZ2kq4yFDJPAVeQF",
+    "symbol": "FADE",
+    "name": "Fade",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/AJX6i1cFVsBPnwFhZbqzzo3o2kuZmZ2kq4yFDJPAVeQF.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2Aj9m93tJnGjGLG2L8rUFxNgTHWta3BeAQEe8gfKVbw9",
+    "symbol": "GULAG",
+    "name": "Gulag",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2Aj9m93tJnGjGLG2L8rUFxNgTHWta3BeAQEe8gfKVbw9.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "2QGkyRQebL9FNvCKaBk8eAtpJQmB9Ljx9kYKFZKTbSKy",
+    "symbol": "TMS",
+    "name": "Tomisol",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/2QGkyRQebL9FNvCKaBk8eAtpJQmB9Ljx9kYKFZKTbSKy.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "3QZFt4AXfx7Ei13kEwDPyDjXSKM98pXhM5SQBus8v8Tq",
+    "symbol": "GRAPH",
+    "name": "Graphite Protocol",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3QZFt4AXfx7Ei13kEwDPyDjXSKM98pXhM5SQBus8v8Tq.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "EZREGSpP2uGP3CfvXmTppnimdKNgcAxkWLZqKweSv5YT",
+    "symbol": "HNT",
+    "name": "Helium Network Token",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/EZREGSpP2uGP3CfvXmTppnimdKNgcAxkWLZqKweSv5YT.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BSD6WUcTfrKXoZnyvEL3oXhTikvbRDUCpkkM7XFy98i4",
+    "symbol": "JJJ",
+    "name": "JJJ v10",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BSD6WUcTfrKXoZnyvEL3oXhTikvbRDUCpkkM7XFy98i4.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "FSJetkmrMkDyVx6iwsxYEcYBF8C9f3T4tgvkrbdtJRxD",
+    "symbol": "RAINI",
+    "name": "Rainicorn",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/FSJetkmrMkDyVx6iwsxYEcYBF8C9f3T4tgvkrbdtJRxD.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "AgGU8dwqBVWmTSJAC1BfJHtCJ8QRhvLLG8AoSuLfvpLq",
+    "symbol": "ARG",
+    "name": "Argoneum",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/AgGU8dwqBVWmTSJAC1BfJHtCJ8QRhvLLG8AoSuLfvpLq.webp"
+  },
+  {
+    "chainId": 101,
+    "address": "BQnJTNbkQLhb6aS8A5wsdqjfARKr1t5czP1bMS7JprHS",
+    "symbol": "MNTL",
+    "name": "Mantle Network",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BQnJTNbkQLhb6aS8A5wsdqjfARKr1t5czP1bMS7JprHS.webp"
+  },
+  {
+    "address": "3Kwsdqgxp5c6yQQLVU3L6LC9LWThwvPr1urwc9UhqH2P",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Sandglass YT mSOL",
+    "symbol": "YT",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/3Kwsdqgxp5c6yQQLVU3L6LC9LWThwvPr1urwc9UhqH2P.webp"
+  },
+  {
+    "address": "C3fTzqPdi8aqbQaWV1bziwjyPNp29GUvW6gPax9aETBQ",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Sandglass PT mSOL",
+    "symbol": "PT",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/C3fTzqPdi8aqbQaWV1bziwjyPNp29GUvW6gPax9aETBQ.webp"
+  },
+  {
+    "address": "9RSDq7sd7VZygdDAH4rRuL5dWWatJEMPe5pbwGSKKhr8",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Sandglass YT JitoSOL",
+    "symbol": "YT",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/9RSDq7sd7VZygdDAH4rRuL5dWWatJEMPe5pbwGSKKhr8.webp"
+  },
+  {
+    "address": "CnixDJKBXKHVaUa8CRhSJkb343KyJ6buRGYoGmQF3tNp",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Sandglass PT JitoSOL",
+    "symbol": "PT",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/CnixDJKBXKHVaUa8CRhSJkb343KyJ6buRGYoGmQF3tNp.webp"
+  },
+  {
+    "address": "xAURp5XmAG7772mfkSy6vRAjGK9JofYjc3dmQDWdVDP",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Aurory",
+    "symbol": "xAURY",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/xAURp5XmAG7772mfkSy6vRAjGK9JofYjc3dmQDWdVDP.webp"
+  },
+  {
+    "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Vault Points",
+    "symbol": "VPTS",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b.webp"
+  },
+  {
+    "address": "FAJA9Qgn1CqLKtYi77CoWSGH7dyRrat394q9mpRFQzGs",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "PayPal USD wrapped by Save",
+    "symbol": "PYUSD",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/FAJA9Qgn1CqLKtYi77CoWSGH7dyRrat394q9mpRFQzGs.webp"
+  },
+  {
+    "address": "BAsnXPVYuvZDfEFR7tmu9sG9gPyHy58Jpjs2AuUw1FLx",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "NX",
+    "symbol": "NX",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/BAsnXPVYuvZDfEFR7tmu9sG9gPyHy58Jpjs2AuUw1FLx.webp"
+  },
+  {
+    "address": "sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Solayer SOL",
+    "symbol": "sSOL",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh.webp"
+  },
+  {
+    "address": "GYiUmJ8reqYAdTQtx6CRFawHqPXx9yzkUFvaUVE8PskP",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "SOL-JITO (Raydium)",
+    "symbol": "kJITOSOL-SOL",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/GYiUmJ8reqYAdTQtx6CRFawHqPXx9yzkUFvaUVE8PskP.webp"
+  },
+  {
+    "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "USDS",
+    "symbol": "USDS",
+    "logoURI": "https://raw.githubusercontent.com/sonarwatch/token-lists/main/images/solana/USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA.webp",
+    "extensions": {
+      "coingeckoId": "usds"
+    }
+  }
+]
